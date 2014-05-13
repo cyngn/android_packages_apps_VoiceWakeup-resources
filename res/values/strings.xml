@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">VoiceWakeup</string>
+
+    <!-- Strings that can be overlayed -->
+    <string name="device_name" translatable="false">device</string>
+    <string name="wakeup_phrase" translatable="false">Hey Snapdragon</string>
+
+    <!--sub: wakeup_phrase -->
+    <string name="training_subtitle">To begin, tap the microphone in the center of the screen. Then say \"%1$s\"</string>
+    <!--sub1: device_name, sub2: wakeup_phrase -->
+    <string name="training_instruction_intro">Let\'s train your new %1$s to recognize your voice.\n\nYou\'re going to want to find a quiet place for this.\n\nWhen you are ready, tap the button below and follow the on-screen prompts.</string>
+    <!--sub: wakeup_phrase -->
+    <string name="training_instruction_error">Oops, couldn\'t hear you. Try saying \"%1$s\" again</string>
+    <!--sub: wakeup_phrase -->
+    <string name="training_instruction_try">Try saying \"%1$s\"</string>
+    <!--sub: wakeup_phrase -->
+    <string name="training_instruction_outro">Perfect, you are all set! Your device is now trained to your voice. You can always repeat this training process from Settings.\n\nWake your device anytime by saying \"%1$s\"</string>
+
+    <string name="training_title">Train your voice</string>
+    <string name="training_button_train">Let\'s go</string>
+    <string name="training_button_all_done">All done</string>
+    <string name="training_button_reset">Come back later</string>
+    <string name="training_instruction_again">Great, let\'s do it again.</string>
+    <string name="training_instruction_last_time">One last time!</string>
+    <string name="training_instruction_success">Training the system</string>
+    <string name="training_instruction_processing">Massaging your voice</string>
+
+    <string name="notification_title">Voice wakeup is available</string>
+    <string name="notification_text">Control your phone with your voice. Tap to begin training your new device.</string>
+</resources>
