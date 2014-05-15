@@ -39,7 +39,7 @@
     <string name="training_instruction_again">Great, let\'s do it again.</string>
     <string name="training_instruction_last_time">One last time!</string>
     <string name="training_instruction_success">Training the system</string>
-    <string name="training_instruction_processing">Massaging your voice</string>
+    <string name="training_instruction_processing">Processing your voice\u2026</string>
 
     <string name="notification_title">Voice wakeup is available</string>
     <string name="notification_text">Control your phone with your voice. Tap to begin training your new device.</string>
