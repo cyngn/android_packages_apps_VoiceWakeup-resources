@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Skvelé, zopakujte to.</string>
   <string name="training_instruction_last_time">Naposledy!</string>
   <string name="training_instruction_success">Systém učenia sa</string>
-  <string name="training_instruction_processing">Vyhladzovanie vášho hlasu</string>
   <string name="notification_title">Prebudenie hlasom je dostupné</string>
   <string name="notification_text">Ovládajte váš telefón hlasom. Kliknite pre začatie učenia sa vaším telefónom.</string>
 </resources>

@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Fint, la oss gjøre det igjen.</string>
   <string name="training_instruction_last_time">En siste gang!</string>
   <string name="training_instruction_success">Trener systemet</string>
-  <string name="training_instruction_processing">Bearbeider stemmen din</string>
   <string name="notification_title">Stemmeoppvåkning er tilgjengelig</string>
   <string name="notification_text">Kontroller telefonen med stemmen. Trykk for å begynne opplæring av enheten.</string>
 </resources>

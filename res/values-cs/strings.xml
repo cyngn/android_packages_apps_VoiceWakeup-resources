@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Skvělé, udělejme to znovu.</string>
   <string name="training_instruction_last_time">Ještě jednou!</string>
   <string name="training_instruction_success">Učení systému</string>
-  <string name="training_instruction_processing">Učení se hlasu</string>
   <string name="notification_title">Probuzení hlasem je aktivní</string>
   <string name="notification_text">Ovládejte telefon hlasem. Stisknutím zahájíte proces učení hlasovým povelům.</string>
 </resources>

@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Hyvä, tehdään se uudelleen.</string>
   <string name="training_instruction_last_time">Vielä kerran!</string>
   <string name="training_instruction_success">Järjestelmän opettaminen</string>
-  <string name="training_instruction_processing">Käsitellään ääntäsi</string>
   <string name="notification_title">Ääniherättäminen on saatavilla</string>
   <string name="notification_text">Ohjaa puhelinta äänelläsi. Paina aloittaaksesi uuden laitteesi opetuksen.</string>
 </resources>

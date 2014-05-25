@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Świetnie, spróbujmy jeszcze raz.</string>
   <string name="training_instruction_last_time">Jeszcze raz!</string>
   <string name="training_instruction_success">Uczenie systemu</string>
-  <string name="training_instruction_processing">Uczenie się twojego głosu</string>
   <string name="notification_title">Wybudzanie głosem jest dostępne</string>
   <string name="notification_text">Steruj swój telefon za pomocą głosu. Naciśnij by rozpocząć nauczanie Twojego nowego urządzenia.</string>
 </resources>

@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Nagyszerű, csináljuk újra.</string>
   <string name="training_instruction_last_time">Még egyszer utoljára!</string>
   <string name="training_instruction_success">A rendszer felkészítése</string>
-  <string name="training_instruction_processing">Üzenetküldés a hangjával</string>
   <string name="notification_title">Elérhető a felébresztés hanggal funkció</string>
   <string name="notification_text">Irányítsa készülékét a hangjával. Koppintson a készülék felkészítéséhez.</string>
 </resources>

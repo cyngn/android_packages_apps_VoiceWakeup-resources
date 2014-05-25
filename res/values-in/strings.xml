@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Bagus, ayo kita lakukan lagi.</string>
   <string name="training_instruction_last_time">Terakhir kali!</string>
   <string name="training_instruction_success">Melatih sistem</string>
-  <string name="training_instruction_processing">Memproses suara anda</string>
   <string name="notification_title">Voice wakeup tersedia</string>
   <string name="notification_text">Kendalikan telepon dengan suara Anda. Tap untuk memulai pelatihan perangkat Anda yang baru.</string>
 </resources>

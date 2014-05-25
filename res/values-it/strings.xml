@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Grande, facciamolo di nuovo.</string>
   <string name="training_instruction_last_time">Un\'ultima volta!</string>
   <string name="training_instruction_success">Addestramento del sistema</string>
-  <string name="training_instruction_processing">Elaborando la tua voce</string>
   <string name="notification_title">Il risveglio vocale è disponibile</string>
   <string name="notification_text">Controlla il telefono con la tua voce. Tocca per iniziare ad addestrare il tuo nuovo dispositivo.</string>
 </resources>

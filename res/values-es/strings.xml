@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Genial, vamos a hacerlo de nuevo.</string>
   <string name="training_instruction_last_time">¡Una vez más!</string>
   <string name="training_instruction_success">Entrenando el sistema</string>
-  <string name="training_instruction_processing">Perfeccionando tu voz</string>
   <string name="notification_title">La activación por voz está disponible</string>
   <string name="notification_text">Controla tu dispositivo con tu voz. Toca para empezar el entrenamiento.</string>
 </resources>

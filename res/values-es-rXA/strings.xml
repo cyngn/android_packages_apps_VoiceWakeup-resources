@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Xenial, vamos facelo otra vegada.</string>
   <string name="training_instruction_last_time">Una última vegada!</string>
   <string name="training_instruction_success">Entrenando\'l sistema</string>
-  <string name="training_instruction_processing">Dándo-y un masaxe a la to voz</string>
   <string name="notification_title">L\'espertador por voz ta disponible</string>
   <string name="notification_text">Remana\'l teléfonu cola to voz. Toca pa entamar a calibrar el preséu.</string>
 </resources>

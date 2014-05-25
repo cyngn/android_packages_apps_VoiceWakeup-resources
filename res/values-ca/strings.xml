@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Genial, fem-ho una altra vegada.</string>
   <string name="training_instruction_last_time">Una última vegada!</string>
   <string name="training_instruction_success">Calibra el sistema</string>
-  <string name="training_instruction_processing">Donant un massatge a la teva veu</string>
   <string name="notification_title">El despertador per veu està disponible</string>
   <string name="notification_text">Controla el teu telèfon amb la teva veu. Pica per començar a calibrar el teu nou dispositiu.</string>
 </resources>

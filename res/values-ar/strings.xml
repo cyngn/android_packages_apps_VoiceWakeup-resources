@@ -29,7 +29,6 @@
   <string name="training_instruction_again">عظيم، دعونا نفعل ذلك مرة أخرى.</string>
   <string name="training_instruction_last_time">آخر مرة!</string>
   <string name="training_instruction_success">تدريب النظام</string>
-  <string name="training_instruction_processing">ارسال صوتك</string>
   <string name="notification_title">يتوفر صوت الإيقاض</string>
   <string name="notification_text">التحكم في الهاتف الخاص بك مع صوتك. اضغط لبدء تدريب الجهاز الجديد الخاص بك.</string>
 </resources>

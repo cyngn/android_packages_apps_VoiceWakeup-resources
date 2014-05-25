@@ -30,7 +30,6 @@ Perfek, jy is nou opgestel! Jou toestel is nou opgelei vir jou stem. Jy kan alty
   <string name="training_instruction_again">Goed, kom ons doen dit weer.</string>
   <string name="training_instruction_last_time">Nog een laaste keer!</string>
   <string name="training_instruction_success">Stelsel opleiding</string>
-  <string name="training_instruction_processing">Leer jou stem</string>
   <string name="notification_title">Stem wakker maak is beskikbaar</string>
   <string name="notification_text">Beheer jou selfoon met jou stem. Tik om opleiding te begin met jou nuwe toestel.</string>
 </resources>

@@ -29,7 +29,6 @@
   <string name="training_instruction_again">太好了，讓我們再做一次。</string>
   <string name="training_instruction_last_time">最後一次！</string>
   <string name="training_instruction_success">訓練系統</string>
-  <string name="training_instruction_processing">調整你的聲音</string>
   <string name="notification_title">聲音喚醒已可用</string>
   <string name="notification_text">用你的聲音控制你的手機，點擊並開始訓練你的新設備。</string>
 </resources>

@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Parfait, recommençons.</string>
   <string name="training_instruction_last_time">Une dernière fois !</string>
   <string name="training_instruction_success">Apprentissage du système</string>
-  <string name="training_instruction_processing">Analyse de votre voix</string>
   <string name="notification_title">Le réveil par la voix est disponible</string>
   <string name="notification_text">Contrôler votre téléphone avec votre voix. Appuyez pour commencer l\'apprentissage.</string>
 </resources>
