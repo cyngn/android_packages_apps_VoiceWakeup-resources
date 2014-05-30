@@ -29,7 +29,7 @@
   <string name="training_instruction_again">යසයි, නැවත ඒක කරමු.</string>
   <string name="training_instruction_last_time">එකම අවසන් වතාව!</string>
   <string name="training_instruction_success">පද්ධතිය පුහුණු කරමින්</string>
-  <string name="training_instruction_processing">ඔබගේ කටහඬ සකසමින්</string>
+  <string name="training_instruction_processing">ඔබගේ කටහඬ සකසමින්\u2026</string>
   <string name="notification_title">කටහඬින් අවදිවීම ලබාගතහැක</string>
   <string name="notification_text">ඔබගේ දුරකථනය ඔබගේ කටහඩ මගින් හසුරවන්න. ඔබගේ නව උපාංගය පුහුණු කිරීම ඇරඹීමට තට්ටුකරන්න.</string>
 </resources>

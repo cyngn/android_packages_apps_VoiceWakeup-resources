@@ -29,7 +29,7 @@
   <string name="training_instruction_again">太棒了，让我们再做一次。</string>
   <string name="training_instruction_last_time">最后一次 ！</string>
   <string name="training_instruction_success">训练系统</string>
-  <string name="training_instruction_processing">调整您的声音</string>
+  <string name="training_instruction_processing">正在处理您的语音\u2026</string>
   <string name="notification_title">语音唤醒可用</string>
   <string name="notification_text">用您的声音控制您的手机。点击并开始训练您的新设备。</string>
 </resources>

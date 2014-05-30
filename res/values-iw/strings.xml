@@ -29,7 +29,7 @@
   <string name="training_instruction_again">נהדר, בא נעשה שוב.</string>
   <string name="training_instruction_last_time">פעם אחרונה!</string>
   <string name="training_instruction_success">הדרכת מערכת</string>
-  <string name="training_instruction_processing">מעבד את קולך</string>
+  <string name="training_instruction_processing">מעבד את קולך\u2026</string>
   <string name="notification_title">התעוררות על ידי קול זמינה</string>
   <string name="notification_text">שלוט במכשיר בעזרת הקול שלך. גע כדי להתחיל באימון המכשיר.</string>
 </resources>

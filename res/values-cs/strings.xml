@@ -18,18 +18,18 @@
 <resources>
   <string name="app_name">Probuzení hlasem</string>
   <string name="training_subtitle">Chcete-li začít, stiskněte tlačítko mikrofonu uprostřed obrazovky. Pak řekněte \"%1$s\"</string>
-  <string name="training_instruction_intro">Nyní naučíme %1$s rozpoznat hlas.\n\nNajděte si tiché místo.\n\nAž budete připraveni, stiskněte tlačítko níže a postupujte podle dalších instrukcí.</string>
-  <string name="training_instruction_error">Příliš potichu. Zkuste říct znovu „%1$s“ hlasitěji.</string>
+  <string name="training_instruction_intro">Nyní naučíme %1$s rozpoznat Váš hlas.\n\nNajděte si tiché místo.\n\nAž budete připraveni, stiskněte tlačítko níže a postupujte dle dalších instrukcí.</string>
+  <string name="training_instruction_error">Příliš potichu. Zkuste zopakovat „%1$s“ hlasitěji</string>
   <string name="training_instruction_try">Zkuste říct „%1$s“</string>
   <string name="training_instruction_outro">Výborně, vše je nastaveno! Zařízení se naučilo rozpoznat váš hlas. Proces učení hlasu můžete kdykoliv vyvolat v menu nastavení.\n\nProbuďte zařízení kdykoli tím, že řeknete „%1$s“.</string>
   <string name="training_title">Naučit se hlasové povely</string>
   <string name="training_button_train">Jdeme na to</string>
   <string name="training_button_all_done">Vše je hotovo</string>
-  <string name="training_button_reset">Později</string>
-  <string name="training_instruction_again">Skvělé, udělejme to znovu.</string>
+  <string name="training_button_reset">Vraťte se později</string>
+  <string name="training_instruction_again">Skvělé, pojďme to zkusit znovu.</string>
   <string name="training_instruction_last_time">Ještě jednou!</string>
   <string name="training_instruction_success">Učení systému</string>
-  <string name="training_instruction_processing">Učení se hlasu</string>
-  <string name="notification_title">Probuzení hlasem je aktivní</string>
+  <string name="training_instruction_processing">Zpracovávání hlasu\u2026</string>
+  <string name="notification_title">Probuzení hlasem je dostupné</string>
   <string name="notification_text">Ovládejte telefon hlasem. Stisknutím zahájíte proces učení hlasovým povelům.</string>
 </resources>

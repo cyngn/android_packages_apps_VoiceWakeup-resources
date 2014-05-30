@@ -29,7 +29,6 @@
   <string name="training_instruction_again">Klasse, das gleiche noch einmal.</string>
   <string name="training_instruction_last_time">Und noch ein letztes Mal!</string>
   <string name="training_instruction_success">Das System einlernen</string>
-  <string name="training_instruction_processing">Ihre Stimme wird verarbeitet</string>
   <string name="notification_title">Mit Stimme wecken ist verfügbar</string>
   <string name="notification_text">Steuern Sie Ihr Telefon mit Ihrer Stimme. Antippen, um Ihr Gerät zu trainieren.</string>
 </resources>

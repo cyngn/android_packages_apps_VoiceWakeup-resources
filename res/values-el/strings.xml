@@ -29,7 +29,7 @@
   <string name="training_instruction_again">Ωραία, ας το κάνουμε ξανά.</string>
   <string name="training_instruction_last_time">Μια τελευταία φορά!</string>
   <string name="training_instruction_success">Εκπαιδεύοντας το σύστημα</string>
-  <string name="training_instruction_processing">Επεξεργασία της φωνής σας</string>
+  <string name="training_instruction_processing">Επεξεργασία της φωνής σας\u2026</string>
   <string name="notification_title">Η φωνητική αφύπνιση είναι διαθέσιμη</string>
   <string name="notification_text">Ελέγξτε το τηλέφωνό σας με τη φωνή σας. Πατήστε για να ξεκινήσετε την εκπαίδευση της νέας συσκευής σας.</string>
 </resources>

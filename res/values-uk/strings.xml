@@ -29,7 +29,7 @@
   <string name="training_instruction_again">Чудово, давайте зробимо це знову.</string>
   <string name="training_instruction_last_time">Останній раз!</string>
   <string name="training_instruction_success">Навчаю систему</string>
-  <string name="training_instruction_processing">Обробляю ваш голос</string>
+  <string name="training_instruction_processing">Обробка вашого голосу\u2026</string>
   <string name="notification_title">Включення голосовою командою доступно</string>
   <string name="notification_text">Керуйте телефоном за допомогою голосу. Натисніть, щоб почати навчання вашого нового пристрою.</string>
 </resources>

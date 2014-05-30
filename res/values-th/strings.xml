@@ -29,6 +29,7 @@
   <string name="training_instruction_again">เยี่ยม, ลองทำอีกครั้ง</string>
   <string name="training_instruction_last_time">ครั้งสุดท้ายแล้ว!</string>
   <string name="training_instruction_success">สอนระบบของคุณ</string>
+  <string name="training_instruction_processing">กำลังประมวลผลเสียงของคุณ\u2026</string>
   <string name="notification_title">สามารถใช้เสียงปลุกจอได้</string>
   <string name="notification_text">ควบคุมโทรศัพท์ของคุณด้วยเสียงของคุณ แตะเริ่มต้นเพื่อสอนอุปกรณ์ของคุณ</string>
 </resources>

@@ -29,7 +29,7 @@
   <string name="training_instruction_again">Harika, haydi tekrar yapalım.</string>
   <string name="training_instruction_last_time">Son bir kez!</string>
   <string name="training_instruction_success">Sistem eğitiliyor</string>
-  <string name="training_instruction_processing">Sesiniz işleniyor</string>
+  <string name="training_instruction_processing">Sesiniz işleniyor\u2026</string>
   <string name="notification_title">Sesle uyanma kullanılabilir</string>
   <string name="notification_text">Sesinizle telefonunuzu kontrol edin. Yeni cihazınızı eğitmeye başlamak için dokunun.</string>
 </resources>
