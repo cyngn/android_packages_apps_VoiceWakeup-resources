@@ -20,7 +20,7 @@
   <string name="training_instruction_error">糟糕，無法聽到您的聲音。嘗試再說一次「%1$s」</string>
   <string name="training_instruction_try">嘗試說「%1$s」</string>
   <string name="training_instruction_outro">完美，您已經完成所有設定！您的裝置現已可以辨認你的聲音。您可以隨時從「設定」中重複這次訓練過程。講出「%1$s」隨時喚醒您的裝置</string>
-  <string name="training_title">訓練你的聲音</string>
+  <string name="training_title">訓練您的聲音</string>
   <string name="training_button_train">立即開始</string>
   <string name="training_button_all_done">全部完成</string>
   <string name="training_button_reset">稍後再來</string>
@@ -29,5 +29,5 @@
   <string name="training_instruction_success">訓練系統</string>
   <string name="training_instruction_processing">正在處理您的聲音\u2026</string>
   <string name="notification_title">聲音喚醒已可用</string>
-  <string name="notification_text">用你的聲音控制你的手機，點擊並開始訓練你的新裝置。</string>
+  <string name="notification_text">以您的聲音控制手機。輕按即可開始訓練您的新裝置。</string>
 </resources>
