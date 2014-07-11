@@ -18,6 +18,7 @@
 <resources>
   <string name="app_name">ئاگاداركردنه‌وه‌ی ده‌نگ</string>
   <string name="training_subtitle">بۆ ده‌ستپێكردن بده‌ له‌ مایكرۆفۆنه‌كه‌ له‌ ناوه‌ڕاستی شاشه‌كه. پاشان قسه‌ بكه‌\"%1$s\"</string>
+  <string name="training_instruction_intro">با ڕاهێنان بکه‌ین بۆ %1$s تازه‌که‌ت بۆ ناسینه‌وه‌ی ده‌نگت.\n\nتۆ پێویستت به‌ شوێنێکی بێده‌نگه‌ بۆ ئه‌م کاره‌.\n\nهه‌رکات ئاماده‌بوویت.دوگمه‌که‌ بکه‌ و له‌گه‌ڵ شاشه‌که‌دا بڕۆ.</string>
   <string name="training_instruction_error">Oops،گوێی له‌ تۆ نه‌بوو . هه‌وڵبده‌ دووباره‌ %1$sقسه‌ بكه‌وه‌</string>
   <string name="training_instruction_try">هه‌وڵبده‌ قسه‌بكه‌ %1$s</string>
   <string name="training_instruction_outro">ته‌واو، هه‌موویت دانا! ئامێره‌كه‌ت ئێستا مه‌شقكراوه‌ بۆ ده‌نگی تۆ. تۆ به‌رده‌وام ده‌توانیت ئه‌م پرۆسه‌یه‌ دوباره‌ قورمیش بكه‌یته‌وه‌ له‌ ڕێكخستن\n\nئامێره‌كه‌ت ئاگاداربكه‌وه‌ هه‌ركاتێك بێ به‌ وتنی %1$s</string>
@@ -26,6 +27,9 @@
   <string name="training_button_all_done">هه‌مووی ته‌واو</string>
   <string name="training_button_reset">دواتر بگه‌ڕیوه‌</string>
   <string name="training_instruction_again">زۆرباشه‌ ،ئا ئه‌وه‌ دووباره‌بكه‌ره‌وه‌.</string>
+  <string name="training_instruction_last_time">بۆ کۆتاجار!</string>
   <string name="training_instruction_success">همه‌شقكردنی سیسته‌مه‌كه‌</string>
+  <string name="training_instruction_processing">ئاماده‌کردنی ده‌نگه‌که‌ت\u2026</string>
+  <string name="notification_title">ئاگادارکه‌ره‌وه‌ی ده‌نگ ئاماده‌یه‌</string>
   <string name="notification_text">كۆنتڕۆڵكردنی موبایله‌كه‌ت به‌ ده‌نگی خۆت. لێیده‌ بۆ ده‌ستپێكردن به‌ مه‌شقپێكردنی ئامێره‌ تازه‌كه‌ت.</string>
 </resources>
