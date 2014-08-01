@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Felélesztés hanggal</string>
+  <string name="app_name">Felélesztés Hanggal</string>
   <string name="training_subtitle">Kezdéshez érintse meg a mikrofont a képernyő közepén. Mondja: %1$s</string>
   <string name="training_instruction_intro">Készítse fel az új %1$s-t, hogy felismerje a hangját.\n\nEhhez egy csendes helyre lesz szüksége.\n\nMikor készen áll, érintse meg az alábbi gombot és kövesse a képernyőn látható utasításokat.</string>
   <string name="training_instruction_error">Hoppá, nem hallottam. Próbálja újra mondani: %1$s</string>
