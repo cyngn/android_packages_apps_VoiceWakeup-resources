@@ -17,6 +17,7 @@
 -->
 <resources>
   <string name="app_name">語音喚醒</string>
+  <string name="training_subtitle">首先，請輕觸螢幕中央的麥克風。然後說「%1$s」</string>
   <string name="training_instruction_error">糟糕，無法聽到您的聲音。嘗試再說一次「%1$s」</string>
   <string name="training_instruction_try">嘗試說「%1$s」</string>
   <string name="training_instruction_outro">完美，您已經完成所有設定！您的裝置現已可以辨認你的聲音。您可以隨時從「設定」中重複這次訓練過程。講出「%1$s」隨時喚醒您的裝置</string>
