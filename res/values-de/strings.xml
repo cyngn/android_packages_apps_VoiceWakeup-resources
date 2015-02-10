@@ -19,14 +19,14 @@
   <string name="app_name">Mit Stimme aufwecken</string>
   <string name="training_subtitle">Starten Sie durch Tippen auf das Mikrofon in der Bildschirmmitte. Dann sagen Sie \"%1$s\"</string>
   <string name="training_instruction_intro">Jetzt trainieren wir Ihr neues %1$s dazu, Ihre Stimme zu erkennen.\n\nSie sollten einen ruhigen Ort dafür aufsuchen.\n\nWenn Sie bereit sind, berühren Sie die unten gezeigte Schaltfläche und folgen Sie den Anweisungen.</string>
-  <string name="training_instruction_error">Ich konnte Sie nicht verstehen. Sagen Sie noch einmal \"%1$s\"</string>
-  <string name="training_instruction_try">Sprechen Sie \"%1$s\"</string>
+  <string name="training_instruction_error">Hoppla! Ich konnte Sie nicht verstehen. Sagen Sie noch einmal „%1$s“</string>
+  <string name="training_instruction_try">Sagen Sie \"%1$s“</string>
   <string name="training_instruction_outro">Perfekt, Sie sind startklar! Ihr Gerät ist nun auf Ihre Stimme trainiert. Sie können dieses Training stets in den Einstellungen wiederholen.\n\nWecken Sie Ihr Gerät jederzeit auf, indem Sie \"%1$s\" sagen</string>
   <string name="training_title">Auf Ihre Stimme trainieren</string>
   <string name="training_button_train">Los geht\'s</string>
   <string name="training_button_all_done">Alles erledigt</string>
   <string name="training_button_reset">Kommen Sie später wieder</string>
-  <string name="training_instruction_again">Klasse, das gleiche noch einmal.</string>
+  <string name="training_instruction_again">Super, das Gleiche noch einmal!</string>
   <string name="training_instruction_last_time">Und noch ein letztes Mal!</string>
   <string name="training_instruction_success">Das System einlernen</string>
   <string name="training_instruction_processing">Ihre Stimme wird verarbeitet\u2026</string>
