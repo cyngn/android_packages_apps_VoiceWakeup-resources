@@ -17,7 +17,7 @@
 -->
 <resources>
   <string name="app_name">Pažadinimas balsu</string>
-  <string name="training_subtitle">Norėdami pradėti, spustelėkite mikrofoną ekrano centre. Tuomet ištarkite \"%1$s\"</string>
+  <string name="training_subtitle">Kad pradėtumėte, spustelėkite mikrofoną ekrano centre. Tuomet ištarkite \"%1$s\"</string>
   <string name="training_instruction_intro">Apmokysime jūsų naują %1$s atpažinti jūsų balsą.\n\nTam susiraskite tylią aplinką.\n\nKai būsite pasiruošę, spustelėkite žemiau esantį mygtuką ir sekite tolimesnius nurodymus.</string>
   <string name="training_instruction_error">Deja, nepavyko išgirsti. Pasakykite \"%1$s\" dar kartą</string>
   <string name="training_instruction_try">Pasakykite \"%1$s\"</string>
@@ -31,5 +31,5 @@
   <string name="training_instruction_success">Sistemos apmokymas</string>
   <string name="training_instruction_processing">Apdorojamas jūsų balsas\u2026</string>
   <string name="notification_title">Pažadinimas balsu yra galimas</string>
-  <string name="notification_text">Valdykite savo telefoną balsu. Spustelėkite norėdami pradėti savo naujo įrenginio apmokymą.</string>
+  <string name="notification_text">Valdykite savo telefoną balsu. Spustelėkite, kad pradėtumėte savo naujo įrenginio apmokymą.</string>
 </resources>
