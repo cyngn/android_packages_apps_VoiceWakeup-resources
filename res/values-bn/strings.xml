@@ -17,4 +17,5 @@
 -->
 <resources>
   <string name="app_name">কন্ঠ দ্বারা জেগে ওঠা</string>
+  <string name="training_button_all_done">সব সম্পন্ন</string>
 </resources>
