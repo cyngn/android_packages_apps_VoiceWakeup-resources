@@ -18,7 +18,7 @@
 <resources>
   <string name="app_name">Pažadinimas balsu</string>
   <string name="training_subtitle">Kad pradėtumėte, spustelėkite mikrofoną ekrano centre. Tuomet ištarkite \"%1$s\"</string>
-  <string name="training_instruction_intro">Apmokysime jūsų naują %1$s atpažinti jūsų balsą.\n\nTam susiraskite tylią aplinką.\n\nKai būsite pasiruošę, spustelėkite žemiau esantį mygtuką ir sekite tolimesnius nurodymus.</string>
+  <string name="training_instruction_intro">Apmokysime jūsų naują %1$s atpažinti jūsų balsą.\n\nTam susiraskite tylią aplinką.\n\nKai būsite pasiruošę, bakstelėkite žemiau esantį mygtuką ir sekite tolimesnius nurodymus.</string>
   <string name="training_instruction_error">Deja, nepavyko išgirsti. Pasakykite \"%1$s\" dar kartą</string>
   <string name="training_instruction_try">Pasakykite \"%1$s\"</string>
   <string name="training_instruction_outro">Puiku, nustatymas baigtas! Šis įrenginys jau apmokytas jūsų balso. Visada galite pakartoti apmokymo procesą per nustatymus.\n\nBet kada pažadinkite savo įrenginį sakydami \"%1$s\"</string>
@@ -26,10 +26,10 @@
   <string name="training_button_train">Pirmyn</string>
   <string name="training_button_all_done">Baigta</string>
   <string name="training_button_reset">Grįžti vėliau</string>
-  <string name="training_instruction_again">Puiku, pakartokite tai dar kartą.</string>
+  <string name="training_instruction_again">Puiku, pakartoti tai dar kartą.</string>
   <string name="training_instruction_last_time">Paskutinį kartą!</string>
   <string name="training_instruction_success">Sistemos apmokymas</string>
   <string name="training_instruction_processing">Apdorojamas jūsų balsas\u2026</string>
-  <string name="notification_title">Pažadinimas balsu yra galimas</string>
-  <string name="notification_text">Valdykite savo telefoną balsu. Spustelėkite, kad pradėtumėte savo naujo įrenginio apmokymą.</string>
+  <string name="notification_title">Pažadinimas balsu yra pasiekiamas</string>
+  <string name="notification_text">Valdykite savo telefoną balsu. Bakstelėkite, kad pradėtumėte savo naujo įrenginio apmokymą.</string>
 </resources>
