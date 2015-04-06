@@ -16,20 +16,20 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">התעוררות על ידי קול</string>
-  <string name="training_subtitle">כדי להתחיל, גש במיקרופון במרכז המסך. ואז תגיד \"%1$s\"</string>
-  <string name="training_instruction_intro">בא נאמן את %1$s החדש שלך כדי לזהות את קולך.\n\nאתה צריך למצוא מקום שקט בשביל זה.\n\nכשאתה מוכן, לחץ על הכפתור למטע ועקוב אחרי ההוראות.</string>
+  <string name="app_name">השכמה קולית</string>
+  <string name="training_subtitle">כדי להתחיל, הקש על המיקרופון במרכז המסך. ואז תגיד \"%1$s\"</string>
+  <string name="training_instruction_intro">בא נאמן את %1$s החדש שלך כדי לזהות את קולך.\n\nאתה צריך למצוא מקום שקט בשביל זה.\n\nכשאתה מוכן, לחץ על הכפתור למטה ועקוב אחר ההוראות.</string>
   <string name="training_instruction_error">אופס, לא שמעתי אותך. נסה לומר \"%1$s\" שוב</string>
   <string name="training_instruction_try">נסה לומר \"%1$s\"</string>
   <string name="training_instruction_outro">מושלם, הכל מוכן! המכשיר עכשיו מוכן לקול שלך. אתה תמיד יכול לחזור על התהליך מההגדרות.\n\nהער את מכשירך באמירת \"%1$s\"</string>
   <string name="training_title">אמן את קולך</string>
-  <string name="training_button_train">בא נתחיל</string>
+  <string name="training_button_train">בוא נתחיל</string>
   <string name="training_button_all_done">הכל מוכן</string>
   <string name="training_button_reset">חזור מאוחר יותר</string>
-  <string name="training_instruction_again">נהדר, בא נעשה שוב.</string>
+  <string name="training_instruction_again">נהדר, בוא נעשה את זה שוב.</string>
   <string name="training_instruction_last_time">פעם אחרונה!</string>
-  <string name="training_instruction_success">הדרכת מערכת</string>
+  <string name="training_instruction_success">מאמן את המערכת</string>
   <string name="training_instruction_processing">מעבד את קולך\u2026</string>
-  <string name="notification_title">התעוררות על ידי קול זמינה</string>
+  <string name="notification_title">השכמה קולית זמינה</string>
   <string name="notification_text">שלוט במכשיר בעזרת הקול שלך. גע כדי להתחיל באימון המכשיר.</string>
 </resources>
