@@ -16,15 +16,20 @@
      limitations under the License.
 -->
 <resources>
-  <string name="training_subtitle">Hasteko, pantailaren erdian dagoen mikrofonoa sakatu. Orduan \u00AB%1$s\u00BB esan</string>
+  <string name="app_name">Esnatu ahotsaren bidez</string>
+  <string name="training_subtitle">Hasteko, sakatu pantaila erdialdeko mikrofonoa eta esan  \"%1$s\"</string>
   <string name="training_instruction_intro">Zure %1$s berria zure ahotsa antzemateko entrenatuko dugu.\n\nHonetarako leku isil bat beharko duzu.\n\nPrest egon bezain laster, hurrengo botoia sakatu eta pantailako argibideak jarraitu.</string>
-  <string name="training_instruction_error">Epa, ezin izan zaitut entzun. Saiatu \u00AB%1$s\u00BB berriz esaten</string>
-  <string name="training_instruction_try">Saiatu \u00AB%1$s\u00BB esaten</string>
+  <string name="training_instruction_error">Ez dizut entzun. Esan \"%1$s\" berriro</string>
+  <string name="training_instruction_try">Esan \"%1$s\"</string>
+  <string name="training_instruction_outro">Izugarri, dena prest dago! Gailua zure ahotsa igartzeko entrenatuta dago. Ezarpenetan entrenamendu hau errepikatu dezakezu.\n\nEsnatu gailua \"%1$s\" esanez</string>
+  <string name="training_title">Entrenatu zure ahotsa</string>
   <string name="training_button_train">Goazen</string>
   <string name="training_button_all_done">Dena prest</string>
+  <string name="training_button_reset">Itzuli geroago</string>
   <string name="training_instruction_again">Ondo, saia gaitezen berriro.</string>
   <string name="training_instruction_last_time">Beste behin!</string>
   <string name="training_instruction_success">Sistema entrenatzen</string>
   <string name="training_instruction_processing">Zure ahotsa prozesatzen\u2026</string>
   <string name="notification_title">Ahotsaren bidezko esnatzea eskuragarri dago</string>
+  <string name="notification_text">Kontrolatu zure gailua ahotsaren bidez. Sakatu entrenatzen hasteko.</string>
 </resources>
