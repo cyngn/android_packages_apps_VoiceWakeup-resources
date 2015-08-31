@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">بیدارباش صوتی</string>
+  <string name="app_name">بیدار شدن با صدا</string>
   <string name="training_subtitle">برای شروع به میکروفون مرکز صفحه نمایش ضربه بزنید. سپس بگویید \"%1$s\"</string>
   <string name="training_instruction_intro">بیایید به %1$s جدیدتان آموزش دهیم که صدای شما را تشخیص دهد.\n\nشما به یک مکان ساکت برای این کار احتیاج خواهید داشت.\n\nزمانی که آماده شدید، به دکمه ی زیر ضربه بزنید و دستورات روی صفحه را دنبال کنید.</string>
   <string name="training_instruction_error">اوه، صدای شما شنیده نمی شود. دوباره بگویید \"%1$s\"</string>
