@@ -17,6 +17,8 @@
 -->
 <resources>
   <string name="app_name">Activación coa voz</string>
+  <string name="training_subtitle">Para comezar, toque o micrófono no centro da pantalla e logo diga \"%1$s\"</string>
+  <string name="training_instruction_error">Vaia, non escoitei ben. Tente dicir \"%1$s\" outra vez</string>
   <string name="training_button_train">Imos</string>
   <string name="training_button_all_done">Todo feito</string>
   <string name="training_button_reset">Volver máis tarde</string>
