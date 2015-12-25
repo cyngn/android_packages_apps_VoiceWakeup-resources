@@ -17,15 +17,15 @@
 -->
 <resources>
   <string name="app_name">Activación por voz</string>
-  <string name="training_subtitle">Para empezar, toca sobre el micrófono en el centro de la pantalla. Entonces di \u00AB%1$s\u00BB</string>
+  <string name="training_subtitle">Para empezar, toca el micrófono en el centro de la pantalla. Luego di \"%1$s\"</string>
   <string name="training_instruction_intro">Vamos a entrenar tu nuevo %1$s para reconocer tu voz.\n\nDeberás buscar un lugar silencioso para esto.\n\nCuando estés listo, toca en el siguiente botón y sigue las instrucciones en la pantalla.</string>
-  <string name="training_instruction_error">Vaya, no he podido oirte. Intenta decir \u00AB%1$s\u00BB nuevamente</string>
-  <string name="training_instruction_try">Intenta decir \u00AB%1$s\u00BB</string>
-  <string name="training_instruction_outro">¡Perfecto, todo listo! El dispositivo está entrenado para reconocer tu voz. Podrás repetir siempre que quieras este proceso de entrenamiento desde Ajustes.\n\nEnciende tu dispositivo en cualquier momento diciendo \u00AB%1$s\u00BB</string>
-  <string name="training_title">Entrenar tu voz</string>
-  <string name="training_button_train">Vamos allá</string>
+  <string name="training_instruction_error">Vaya, no he podido oirte. Intenta decir \"%1$s\" nuevamente</string>
+  <string name="training_instruction_try">Intenta decir \"%1$s\"</string>
+  <string name="training_instruction_outro">¡Perfecto, todo listo! El dispositivo está entrenado para reconocer tu voz. Podrás repetir este proceso de entrenamiento siempre que lo desees desde Ajustes.\n\nEnciende tu dispositivo en cualquier momento diciendo \"%1$s\"</string>
+  <string name="training_title">Entrena tu voz</string>
+  <string name="training_button_train">Vamos</string>
   <string name="training_button_all_done">Todo listo</string>
-  <string name="training_button_reset">Vuelve más tarde</string>
+  <string name="training_button_reset">Volver más tarde</string>
   <string name="training_instruction_again">Genial, vamos a hacerlo de nuevo.</string>
   <string name="training_instruction_last_time">¡Una vez más!</string>
   <string name="training_instruction_success">Entrenando el sistema</string>
