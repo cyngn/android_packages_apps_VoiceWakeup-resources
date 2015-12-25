@@ -19,7 +19,7 @@
   <string name="app_name">Sesle Uyan</string>
   <string name="training_subtitle">Başlamak için, ekranın ortasındaki mikrofona dokunun. Sonra  \"%1$s\" deyin</string>
   <string name="training_instruction_intro">Yeni %1$s cihazınızın sesinizi tanımasına yardım edelim.\n\nBu eğitim için sessiz bir yer bulmanız istenecektir.\n\nHazır olduğunuzda aşağıdaki tuşa dokunun ve ekrandaki yönergeleri takip edin.</string>
-  <string name="training_instruction_error">Oops, sizi duyamadım. Tekrar \"%1$s\" deyin</string>
+  <string name="training_instruction_error">Eyvah, sizi duyamadım. Tekrar \"%1$s\" deyin</string>
   <string name="training_instruction_try">\"%1$s\" demeyi deneyin</string>
   <string name="training_instruction_outro">Harika, her şey ayarlandı! Cihazınız artık sesinizi öğrendi. Bu eğitimi Ayarlar\'dan her zaman tekrarlayabilirsiniz.\n\n\"%1$s\" diyerek her an cihazınızı uyandırabilirsiniz</string>
   <string name="training_title">Cihazı sesiniz için eğitin</string>
