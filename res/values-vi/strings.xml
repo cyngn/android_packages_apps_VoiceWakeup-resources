@@ -16,6 +16,20 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Đánh thức bằng giọng nói</string>
+  <string name="training_subtitle">Để bắt đầu, hãy nhấp vào micro ở giữa màn hình. Sau đó nói \"%1$s\"</string>
+  <string name="training_instruction_intro">Hãy rèn luyện %1$s mới của bạn để nhận dạng giọng nói của bạn.\n\nBạn cần tìm một nơi yên tĩnh để làm việc này.\n\nKhi đã sẵn sàng, nhấn vào nút bên dưới và làm theo lời nhắc trên màn hình.</string>
+  <string name="training_instruction_error">Rất tiếc, tôi không thể nghe thấy bạn. Thử nói \"%1$s\" một lần nữa</string>
+  <string name="training_instruction_try">Hãy thử nói \"%1$s\"</string>
+  <string name="training_instruction_outro">Hoàn hảo, tất cả đã được thiết lập! Thiết bị giờ đã được rèn luyện giọng nói của bạn. Bạn có thể làm lại quá trình rèn luyện này từ phần Cài đặt.\n\nĐánh thức thiết bị của bạn bất cứ lúc nào bằng cách nói \"%1$s\"</string>
+  <string name="training_title">Rèn luyện giọng nói của bạn</string>
+  <string name="training_button_train">Bắt đầu nào</string>
+  <string name="training_button_all_done">Tất cả đã hoàn tất</string>
+  <string name="training_button_reset">Quay lại sau</string>
+  <string name="training_instruction_again">Tuyệt vời, hãy làm một lần nữa.</string>
+  <string name="training_instruction_last_time">Một lần cuối!</string>
+  <string name="training_instruction_success">Rén luyện hệ thống</string>
+  <string name="training_instruction_processing">Đang xử lý giọng nói của bạn\u2026</string>
   <string name="notification_title">Đánh thức bằng giọng nói hiện khả dụng</string>
   <string name="notification_text">Kiểm soát điện thoại bằng giọng nói của bạn. Chạm để bắt đầu hướng dẫn thiết bị mới của bạn.</string>
 </resources>

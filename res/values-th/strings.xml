@@ -17,4 +17,19 @@
 -->
 <resources>
   <string name="app_name">เสียงปลุกจอ</string>
+  <string name="training_subtitle">เพื่อเริ่มต้น ให้แตะไมโครโฟนกลางหน้าจอและพูดว่า \"%1$s\"</string>
+  <string name="training_instruction_intro">มาฝึกให้ %1$s จำเสียงคุณได้กันเถอะ\n\nคุณต้องหาที่เงียบสงบสำหรับทำสิ่งนี้\n\nเมื่อพร้อม ให้แตะปุ่มด้านล่างและทำตามคำสั่งที่ปรากฏบนจอ</string>
+  <string name="training_instruction_error">โอ๊ะ เราไม่ได้ยินเสียงคุณ กรุณาลองพูด \"%1$s\" อีกครั้ง</string>
+  <string name="training_instruction_try">ลองพูดว่า \"%1$s\"</string>
+  <string name="training_instruction_outro">สมบูรณ์แบบ! ตอนนี้อุปกรณ์สามารถจดจำเสียงคุณได้แล้ว คุณสามารถดำเนินขั้นตอนนี้ซ้ำได้จากการตั้งค่า\n\n สามารถปลุกอุปกรณ์ของคุณได้ทุกเมื่อโดยพูดว่า \"%1$s\"</string>
+  <string name="training_title">สอนอุปกรณ์ของคุณ</string>
+  <string name="training_button_train">เริ่มกันเลย</string>
+  <string name="training_button_all_done">เสร็จแล้ว</string>
+  <string name="training_button_reset">กลับมาภายหลัง</string>
+  <string name="training_instruction_again">เยี่ยม มาลองทำอีกครั้ง</string>
+  <string name="training_instruction_last_time">ครั้งสุดท้ายแล้ว!</string>
+  <string name="training_instruction_success">การสอนระบบ</string>
+  <string name="training_instruction_processing">กำลังประมวลผลเสียงของคุณ\u2026</string>
+  <string name="notification_title">สามารถใช้เสียงปลุกจอได้</string>
+  <string name="notification_text">ควบคุมโทรศัพท์ด้วยเสียงของคุณ แตะเพื่อเริ่มฝึกสอนอุปกรณ์ใหม่ของคุณ</string>
 </resources>
