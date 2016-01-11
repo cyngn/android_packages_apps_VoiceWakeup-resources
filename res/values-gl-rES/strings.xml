@@ -22,5 +22,6 @@
   <string name="training_button_train">Imos</string>
   <string name="training_button_all_done">Todo feito</string>
   <string name="training_button_reset">Volver máis tarde</string>
+  <string name="training_instruction_last_time">A última vez!</string>
   <string name="training_instruction_success">Adestrar o sistema</string>
 </resources>
