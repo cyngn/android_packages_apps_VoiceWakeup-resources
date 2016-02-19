@@ -17,7 +17,7 @@
 -->
 <resources>
   <string name="app_name">Mit Stimme aufwecken</string>
-  <string name="training_subtitle">Starten Sie durch Tippen auf das Mikrofon in der Bildschirmmitte. Dann sagen Sie \"%1$s\"</string>
+  <string name="training_subtitle">Tippen Sie zunächst auf das Mikrofon in der Bildschirmmitte. Dann sagen Sie \"%1$s\"</string>
   <string name="training_instruction_intro">Jetzt trainieren wir Ihr neues %1$s, damit es Ihre Stimme erkennt.\n\nSie sollten dazu einen ruhigen Ort aufsuchen.\n\nWenn Sie bereit sind, tippen Sie auf die unten gezeigte Schaltfläche und folgen Sie den Anweisungen.</string>
   <string name="training_instruction_error">Hoppla, ich konnte Sie leider nicht verstehen. Versuchen Sie noch einmal, \"%1$s\" zu sagen</string>
   <string name="training_instruction_try">Sagen Sie \"%1$s\"</string>
