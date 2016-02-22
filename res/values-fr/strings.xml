@@ -18,14 +18,14 @@
 <resources>
   <string name="app_name">Réveil par la voix</string>
   <string name="training_subtitle">Pour commencer, appuyez sur le microphone au centre de l\'écran. Puis dites « %1$s »</string>
-  <string name="training_instruction_intro">Nous allons former %1$s à reconnaître votre voix.\n\nVous allez rechercher un endroit tranquille pour cela.\n\nQuand vous serez prêt, appuyez sur le bouton ci-dessous et suivez les instructions à l\'écran.</string>
+  <string name="training_instruction_intro">Nous allons former %1$s à reconnaître votre voix.\n\nVous allez devoir trouver un endroit tranquille pour ce faire.\n\nQuand vous serez prêt, appuyez sur le bouton ci-dessous et suivez les instructions à l\'écran.</string>
   <string name="training_instruction_error">Oups, impossible de vous entendre. Essayez de répéter \"%1$s\"</string>
   <string name="training_instruction_try">Essayez de dire \"%1$s\"</string>
   <string name="training_instruction_outro">Parfait, vous êtes prêt ! Votre appareil est maintenant formé à votre voix. Vous pouvez toujours répéter ce processus de formation dans les paramètres.\n\nRéveillez votre appareil à tout moment en disant \"%1$s\"</string>
   <string name="training_title">Apprentissage de votre voix</string>
   <string name="training_button_train">Allons-y</string>
   <string name="training_button_all_done">Terminé</string>
-  <string name="training_button_reset">Revenez plus tard</string>
+  <string name="training_button_reset">Revenir plus tard</string>
   <string name="training_instruction_again">Parfait, recommençons.</string>
   <string name="training_instruction_last_time">Une dernière fois !</string>
   <string name="training_instruction_success">Apprentissage du système</string>
