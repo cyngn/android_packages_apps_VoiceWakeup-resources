@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Voice Wakeup</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Untuk memulai, tap mikrofon di tengah layar. Kemudian katakan \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Mari kita melatih %1$s untuk mengenal suara anda.\n\nAnda harus mencari tempat yang tenang untuk ini.\n\nJika anda siap, tap tombol di bawah ini dan ikuti petunjuk pada layar.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Ups, tidak bisa mendengar anda. Coba katakan \"%1$s\" lagi</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Coba katakan \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Sempurna, Anda sudah siap! Perangkat Anda sekarang dilatih untuk suara Anda. Anda dapat selalu mengulangi proses pelatihan ini dari Settings.\n\nBangunkan perangkat Anda kapan saja dengan mengatakan \"%1$s\"</string>
   <string name="training_title">Latih suara anda</string>
   <string name="training_button_train">Ayo</string>

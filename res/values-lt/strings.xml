@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Pažadinimas balsu</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Kad pradėtumėte, bakstelėkite mikrofoną ekrano centre. Tuomet ištarkite \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Apmokysime jūsų naują %1$s atpažinti jūsų balsą.\n\nTam susiraskite tylią aplinką.\n\nKai būsite pasiruošę, bakstelėkite žemiau esantį mygtuką ir sekite tolimesnius nurodymus.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Deja, nepavyko išgirsti. Pasakykite \"%1$s\" dar kartą</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Pasakykite \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Puiku, nustatymas baigtas! Šis įrenginys jau apmokytas jūsų balso. Visada galite pakartoti apmokymo procesą per nustatymus.\n\nBet kada pažadinkite savo įrenginį sakydami \"%1$s\"</string>
   <string name="training_title">Mokyti savo balso</string>
   <string name="training_button_train">Pirmyn</string>

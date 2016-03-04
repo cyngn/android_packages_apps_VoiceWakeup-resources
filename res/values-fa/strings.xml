@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">بیدار شدن با صدا</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">برای شروع به میکروفون مرکز صفحه نمایش ضربه بزنید. سپس بگویید \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">بیایید به %1$s جدیدتان آموزش دهیم که صدای شما را تشخیص دهد.\n\nشما به یک مکان ساکت برای این کار احتیاج خواهید داشت.\n\nزمانی که آماده شدید، به دکمه ی زیر ضربه بزنید و دستورات روی صفحه را دنبال کنید.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">اوه، صدای شما شنیده نمی شود. دوباره بگویید \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">سعی کنید بگویید \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">بسیار خوب، تنظیم شد! دستگاهتان از این به بعد صدای شما را می شناسد. می توانید هر زمانی که خواستید این مراحل را دوباره در تنظیمات تکرار کنید.\n\nدستگاه خود را هرگاه خواستید با گفتن \"%1$s\" بیدار کنید</string>
   <string name="training_title">صدای خود را آموزش دهید</string>
   <string name="training_button_train">شروع کنید</string>

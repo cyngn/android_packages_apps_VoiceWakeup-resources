@@ -17,4 +17,10 @@
 -->
 <resources>
   <string name="app_name">কন্ঠ দ্বারা জেগে ওঠা</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
+  <!--sub1: device_name, sub2: wakeup_phrase -->
+  <!--sub: wakeup_phrase -->
+  <!--sub: wakeup_phrase -->
+  <!--sub: wakeup_phrase -->
 </resources>

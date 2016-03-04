@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Улучэнне галасавой камандай</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Для пачатку навучання дакраніцеся значка мікрафона ў цэнтры экрана, а потым прамоўце \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Гэты працэс дазволіць %1$s пазнаваць ваш голас.\n\nДля гэтага спатрэбіцца досыць ціхае месца.\n\nКалі будзеце гатовы, націсніце кнопку ніжэй і вынікайце загадам на экране.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Прабачыце, не пачуў. Паспрабуйце сказаць \"%1$s\" яшчэ раз</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Паспрабуйце сказаць \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Выдатна, усё гатова! У прыладзе захаваны ўзор вашага голасу. Працэс навучання можна перазапусціць у кожны момант з Налад.\n\nКаб у кожны момант прылада змагла выйсці з рэжыму сну, проста скажыце \"%1$s\"</string>
   <string name="training_title">Стварэнне ўзору голасу</string>
   <string name="training_button_train">Паехалі</string>

@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Ääniherätys</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Aloita napauttamalla mikrofonia näytön keskellä. Sano sen jälkeen \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Opetetaan uusi %1$s-laitteesi tunnistamaan äänesi.\n\nMene rauhalliseen paikkaan ennen tätä.\n\nKun olet valmis, paina alla olevaa painiketta ja seuraa näyttöön tulevia ohjeita.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Hups, en kuullut sinua. Yritä sanoa \"%1$s\" uudelleen</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Yritä sanoa \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Täydellistä, olet valmis! Laite tunnistaa nyt äänesi. Voit opettaa laitteesi uudelleen asetuksista.\n\nHerätä laitteesi milloin vain sanomalla \"%1$s\"</string>
   <string name="training_title">Opeta äänesi</string>
   <string name="training_button_train">Aloitetaan</string>

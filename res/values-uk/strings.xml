@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Включення голосовою командою</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Щоб почати, натисніть на мікрофон в центрі екрану. Тоді скажіть \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Давайте навчимо %1$s розпізнавати ваш голос.\n\nЗнайдіть спочатку тихе місце.\n\nКоли ви готові, натисніть на кнопку нижче і дотримуйтесь екранних підказок.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">На жаль, не почув вас. Спробуйте сказати \"%1$s\" знову</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Спробуйте сказати \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Ідеально, у вас все налаштовано! Тепер ваш пристрій навчений до вашого голосу. Ви завжди можете повторити цей тренувальний процес в меню Налаштування.\n\nВключайте ваш пристрій в любий момент кажучи \"%1$s\"</string>
   <string name="training_title">Тренуйте голос</string>
   <string name="training_button_train">Розпочнем</string>

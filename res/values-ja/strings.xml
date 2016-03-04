@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">音声起動</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">まず、画面の中央のマイクをタップしてください。次に｢%1$s｣と発声してください。</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">あなたの声を識別できるように新しい%1$sを設定しましょう。\n\nこれは静かな場所で行ってください。\n\n準備ができたら、下のボタンをタップして画面上のダイアログに従ってください。</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">あなたの声を聞き取れませんでした。もう一度｢%1$s｣と発声してみてください。</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">｢%1$s｣と発声してみてください</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">完璧です、すべての設定が完了しました！お使いの端末にあなたの声を設定しました。設定からいつでも再設定できます。\n\n｢%1$s｣と発声すればいつでも端末を起動できます。</string>
   <string name="training_title">声を設定</string>
   <string name="training_button_train">開始</string>

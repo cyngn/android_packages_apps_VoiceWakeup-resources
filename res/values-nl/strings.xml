@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Ontwaken met stem</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Tik om te beginnen op de microfoon in het midden van het scherm. Zeg dan \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Laten we uw nieuwe %1$s trainen om uw stem te herkennen.\n\nZoek hiervoor een rustige omgeving.\n\nAls u er klaar voor bent, tikt u op onderstaande knop en volgt u de aanwijzingen op het scherm.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Oeps, kon u niet horen. Probeer nogmaals \"%1$s\" te zeggen</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Probeer \"%1$s\" te zeggen</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Prima, u bent klaar! Uw apparaat is nu gewend aan uw stem. U kunt dit trainingsproces altijd herhalen via Instellingen.\n\nOntwaak uw apparaat op elk gewenst moment door \"%1$s\" te zeggen</string>
   <string name="training_title">Uw stem trainen</string>
   <string name="training_button_train">Laten we beginnen</string>

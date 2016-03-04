@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">เสียงปลุกจอ</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">เพื่อเริ่มต้น ให้แตะไมโครโฟนกลางหน้าจอและพูดว่า \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">มาฝึกให้ %1$s จำเสียงคุณได้กันเถอะ\n\nคุณต้องหาที่เงียบสงบสำหรับทำสิ่งนี้\n\nเมื่อพร้อม ให้แตะปุ่มด้านล่างและทำตามคำสั่งที่ปรากฏบนจอ</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">โอ๊ะ เราไม่ได้ยินเสียงคุณ กรุณาลองพูด \"%1$s\" อีกครั้ง</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">ลองพูดว่า \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">สมบูรณ์แบบ! ตอนนี้อุปกรณ์สามารถจดจำเสียงคุณได้แล้ว คุณสามารถดำเนินขั้นตอนนี้ซ้ำได้จากการตั้งค่า\n\n สามารถปลุกอุปกรณ์ของคุณได้ทุกเมื่อโดยพูดว่า \"%1$s\"</string>
   <string name="training_title">สอนอุปกรณ์ของคุณ</string>
   <string name="training_button_train">เริ่มกันเลย</string>

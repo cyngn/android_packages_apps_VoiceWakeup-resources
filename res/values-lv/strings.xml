@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Balss pamodināšana</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Lai sāktu, piesitiet mikrofonam ekrāna centrā. Pēc tam pasakiet \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Sāksim apmācīt jauno %1$s atpazīt jūsu balsi.\n\nJums vajadzētu tam atrast klusu vietu.\n\nKad esat gatavs, piesitiet zemāk esošajai pogai un sekojiet ekrānā redzamajām uzvednēm.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Oj, nevarētu jūs sadzirdēt. Mēģiniet pateikt vēlreiz \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Izmēģiniet pateikt \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Lieliski, jūs visu esat iestatījis! Iekārta tagad ir apguvusi jūsu balsi. Jūs vienmēr varat šo apmācību atkārtot iestatījumos.\n\nPamodiniet iekārtu jebkurā laikā, sakot \"%1$s\"</string>
   <string name="training_title">Iemāciet savu balsi</string>
   <string name="training_button_train">Apmācīt</string>

@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Trezire vocală</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Pentru a începe, apasă pe microfonul din centrul ecranului. Apoi spune \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Hai să antrenăm noul %1$s să îți recunoască vocea.\n\nVei vrea să găsești un loc liniștit pentru aceasta.\n\nAtunci când ești gata, apasă butonul de dedesubt și urmează instrucțiunile de pe ecran.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Ups, nu te-am putut auzi. Încearcă să spui \"%1$s\" din nou</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Încearcă să spui \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Perfect, ai terminat. Dispozitivul tău este antrenat acum cu vocea ta. Poți repeta oricând procesul de antrenare din Setări.\n\nTrezește dispozitivul spunând \"%1$s\"</string>
   <string name="training_title">Antrenează vocea</string>
   <string name="training_button_train">Hai</string>

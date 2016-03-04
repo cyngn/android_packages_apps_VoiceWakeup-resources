@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Ativação por voz</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Para começar, toque no microfone ao centro da tela. Em seguida, diga \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Vamos treinar o seu novo %1$s para reconhecer a sua voz.\n\nVocê vai precisar de encontrar um local calmo para isso.\n\nQuando estiver pronto, toque no botão abaixo e siga as instruções que forem aparecendo na tela.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Desculpe, não consegui ouvir. Diga novamente \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Tente dizer \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Perfeito, está pronto. O seu dispositivo está treinado para reconhecer a sua voz. Você sempre pode voltar a repetir este treino nas configurações.\n\nLigue o seu dispositivo a qualquer momento dizendo \"%1$s\"</string>
   <string name="training_title">Treinar a sua voz</string>
   <string name="training_button_train">Vamos</string>

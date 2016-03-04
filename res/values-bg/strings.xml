@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Гласово събуждане</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">За да започнете, натиснете микрофона в центъра на екрана. След това кажете \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Трябва да обучите вашия нов %1$s да разпознава вашия глас.\n\nПърво трябва да намерите тихо място за това.\n\nКогато сте готови, натиснете бутона по-долу и следвайте инструкциите.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Извинете, не можах да ви чуя. Опитайте се да повторите \"%1$s\" отново</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Опитайте се да повторите \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Отлично, всичко е готово! Вашето устройство сега е обучено да разпознава вашия глас. Можете винаги да повтаряте този процес на обучение от Настройки.\n\nСъбуди устройството по всяко време с думите \"%1$s\"</string>
   <string name="training_title">Тренирай гласът си</string>
   <string name="training_button_train">Да вървим</string>

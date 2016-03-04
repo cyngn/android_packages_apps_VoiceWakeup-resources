@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">语音唤醒</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">要开始，请点击屏幕中心的麦克风。然后说出“%1$s”</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">让我们训练您的新 %1$s 辨认您的声音。\n\n请您寻找一个安静的环境来进行后续操作。\n\n当您准备好后，点击下面的按钮并按照屏幕提示进行操作。</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">糟糕，听不到您的声音。请尝试再说一次“%1$s”</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">请试着说 \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">太完美了，您已完成所有设置！您的设备现在已可以辨认您的声音。您可通过设置菜单重复此次训练过程。\n\n说出“%1$s”即可随时唤醒您的设备</string>
   <string name="training_title">训练您的声音</string>
   <string name="training_button_train">开始</string>

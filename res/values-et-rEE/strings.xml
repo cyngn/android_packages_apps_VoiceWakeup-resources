@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Häälärkamine</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Et alustada, koputa mikrofoni ekraani keskel. Seejärel ütle: \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Treenime sinu uue %1$s\'i tundma sinu häält.\n\nSa tahad minna vaiksesse kohta selle jaoks.\n\nKui sa oled valmis, vajut all oleval nupul ja järgi ekraanil olevaid teateid.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Oih, ei kuulnud sind. Proovi öelda \"%1$s\" uuesti</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Proovi öelda \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Hästi, sinu jaoks on kõik valmis. Sinu seade on nüüd treenitud sinu häälele. Sa võid alati korrata treeningu protsessi Seadetest.\n\nÄrata oma seade igal ajal öeldes \"%1$s\"</string>
   <string name="training_title">Treeni oma häält</string>
   <string name="training_button_train">Lähme</string>

@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Esnatu ahotsaren bidez</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Hasteko, sakatu pantaila erdialdeko mikrofonoa eta esan  \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Zure %1$s berria zure ahotsa antzemateko entrenatuko dugu.\n\nHonetarako leku isil bat beharko duzu.\n\nPrest egon bezain laster, hurrengo botoia sakatu eta pantailako argibideak jarraitu.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Ez dizut entzun. Esan \"%1$s\" berriro</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Esan \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Izugarri, dena prest dago! Gailua zure ahotsa igartzeko entrenatuta dago. Ezarpenetan entrenamendu hau errepikatu dezakezu.\n\nEsnatu gailua \"%1$s\" esanez</string>
   <string name="training_title">Entrenatu zure ahotsa</string>
   <string name="training_button_train">Goazen</string>

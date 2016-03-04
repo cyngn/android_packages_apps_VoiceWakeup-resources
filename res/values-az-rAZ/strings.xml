@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Sәslә Oyanma</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Başlamaq üçün ekranın ortasındakı mikrofona toxunun. Sonra \"%1$s\" deyin</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Yeni %1$s cihazınızın səsinizi tanımasına yardım edək.\n\nBunun üçün sakit bir yer tapmağınız istənəcəkdir.\n\nHazır olsanız aşağıdakı düyməyə toxunub ekrandakı göstərişləri izləyin.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Oops, sizi eşitmədik. Yenidən \"%1$s\" deyin</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">\"%1$s\" deməyi yoxlayın</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Əla, hər şey nizamlandı! Artıq cihazınız səsinizi öyrənib. Bunu hər zaman Tənzimləmələrdən təkrarlaya bilərsiniz.\n\n \"%1$s\" deyərək cihazınızı istədiyin vaxt oyandıra bilərsiniz</string>
   <string name="training_title">Cihazı səsinizə öyrədin</string>
   <string name="training_button_train">Başlayaq</string>

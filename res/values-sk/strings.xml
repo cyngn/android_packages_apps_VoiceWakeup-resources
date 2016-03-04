@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Prebudenie hlasom</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Pre začatie, kliknite na mikrofón v strede obrazovky. Potom vyslovte \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Naučte váš nový telefón %1$s, aby rozpoznal váš hlas.\n\nMali by ste si nájsť tiché miesto pre tento proces.\n\nKeď budete pripravený, stlačte tlačidlo nižšie a nasledujte výzvy na obrazovke.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Ups, nebolo vás počuť. Skúste znova vysloviť \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Skúste povedať \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Perfektné, všetko máte nastavené! Vaše zariadenie teraz pozná váš hlas. Kedykoľvek môžete opakovať tento proces učenia sa z Nastavení.\n\nVaše zariadenie môžete kedykoľvek prebudiť vyslovením \"%1$s\"</string>
   <string name="training_title">Naučiť sa váš hlas</string>
   <string name="training_button_train">Poďme</string>

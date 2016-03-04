@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">השכמה קולית</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">כדי להתחיל, הקש על המיקרופון במרכז המסך. ואז תגיד \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">בא נאמן את %1$s החדש שלך כדי לזהות את קולך.\n\nאתה צריך למצוא מקום שקט בשביל זה.\n\nכשאתה מוכן, לחץ על הכפתור למטה ועקוב אחר ההוראות.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">אופס, לא שמעתי אותך. נסה לומר \"%1$s\" שוב</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">נסה לומר \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">מושלם, הכל מוכן! המכשיר עכשיו מוכן לקול שלך. אתה תמיד יכול לחזור על התהליך מההגדרות.\n\nהער את מכשירך באמירת \"%1$s\"</string>
   <string name="training_title">אמן את קולך</string>
   <string name="training_button_train">בוא נתחיל</string>

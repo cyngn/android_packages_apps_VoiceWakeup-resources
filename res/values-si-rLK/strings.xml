@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">කටහඬින් අවදිවීම</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">පටන් ගැන්මට, තිරයේ මැද ඇති මයික්‍රොපෝනය මත තට්ටුකරන්න. ඉන්පසු \"%1$s\" කියන්න</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">දැන් ඔබගේ නව %1$s ඔබගේ කටහඬ අඳුනාගැනීම පිණිස පුහුණු කරමු.\n\nමේ සඳහා ඔබට නිශ්ශබ්ද ස්ථානයක් සොයා ගෙන යාමට අවශ්‍යවේ.\n\nඔබ සූදානම්විට, පහත බොත්තම මත තට්ටුකර තිරයේ දිස්වන ඉඟි අනුගමනය කරන්න.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">අපොයි, ඔබව ඇසීමට නොහැක. \"%1$s\" කියමින් නැවත උත්සාහ කරන්න</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">\"%1$s\" කියමින් උත්සාහ කරන්න</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">පරිපූර්ණයි, ඔබගේ සියල්ල සූදානම්! ඔබගේ උපාංගය දැන් ඔබගේ කටහඬ සඳහා පුහුණුවී ඇත. සැකසීම් ඔස්සේ සෑමවිටම ඔබට මෙම පුහුණු කිරීමේ ක්‍රියාවලිය නැවත කිරීමට හැකිය.\n\n\"%1$s\" කියමින් උපාංගය ඕනෑම මොහොතක අවදිකරන්න.</string>
   <string name="training_title">ඔබගේ කටහඬ පුහුණු කරන්න</string>
   <string name="training_button_train">දැන් යමු</string>

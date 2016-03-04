@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Wybudzanie głosem</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Aby rozpocząć, naciśnij mikrofon w centrum ekranu. Następnie powiedz \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Spróbuj nauczyć twojego nowego %1$s rozpoznawać Twój głoss.\n\nBędzie do tego potrzebne ciche miejsce.\n\nGdy będziesz gotów, naciśnij przycisk poniżej i podążaj za wskazówkami na ekranie.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Niestety nie mogłem Ciebie usłyszeć. Spróbuj ponownie powiedzieć \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Spróbuj powiedzieć \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Świetnie, wszystko zostało ustawione! Twoje urządzenie właśnie nauczyło się twojego głosu. Zawsze możesz powtórzyć ten proces z Ustawień.\n\nWybudź swoje urządzenie mówiąc \"%1$s\"</string>
   <string name="training_title">Poćwicz swój głos</string>
   <string name="training_button_train">Zaczynajmy</string>

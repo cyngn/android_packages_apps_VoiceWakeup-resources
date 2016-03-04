@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Despertador per veu</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Per començar, dona copets el micròfon situat al centre de la pantalla. Llavors digues \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Anem a entrenar el teu nou %1$s per reconèixer la teva veu.\n\nNecessitaràs trobar un lloc tranquil per fer això.\n\nQuan estiguis llest, pica el botó de sota i segueix les preguntes de la pantalla.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Ui, no t\'he pogut sentir. Intenta dir \"%1$s\" una altra vegada</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Intenta dir \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Perfecte, ja estàs llest! El teu dispositiu ara està calibrat per la teva veu. Sempre pots repetir aquest procés de calibració des de la Configuració.\n\nEncén el teu dispositiu en qualsevol moment dient \"%1$s\"</string>
   <string name="training_title">Calibra la teva veu</string>
   <string name="training_button_train">Anem</string>

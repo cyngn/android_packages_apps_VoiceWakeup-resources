@@ -17,15 +17,21 @@
 -->
 <resources>
   <string name="app_name">Включение голосовой командой</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Для начала обучения коснитесь значка микрофона в центре экрана, а затем произнесите «%1$s»</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Этот процесс позволит %1$s узнавать ваш голос.\n\nДля этого понадобится достаточно тихое место.\n\nКогда будете готовы, нажмите кнопку ниже и следуйте указаниям на экране.</string>
-  <string name="training_instruction_error">Простите, не расслышал. Попробуйте сказать «%1$s» ещё раз</string>
+  <!--sub: wakeup_phrase -->
+  <string name="training_instruction_error">Речь не распознана. Скажите «%1$s» еще раз</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Попробуйте сказать «%1$s»</string>
-  <string name="training_instruction_outro">Отлично, всё готово! В устройстве сохранён образец вашего голоса. Процесс обучения можно перезапустить в любой момент из Настроек.\n\nЧтобы в любой момент вывести устройство из режима сна, просто скажите «%1$s»</string>
+  <!--sub: wakeup_phrase -->
+  <string name="training_instruction_outro">Отлично, всё готово! В устройстве сохранён образец вашего голоса. Процесс обучения можно всегда перезапустить в Настройках.\n\nЧтобы в любой момент вывести устройство из режима сна, просто скажите «%1$s»</string>
   <string name="training_title">Создание образца голоса</string>
   <string name="training_button_train">Поехали!</string>
   <string name="training_button_all_done">Всё готово</string>
-  <string name="training_button_reset">Загляните попозже</string>
+  <string name="training_button_reset">Загляните позже</string>
   <string name="training_instruction_again">Замечательно, давайте ещё разок.</string>
   <string name="training_instruction_last_time">Последний раз!</string>
   <string name="training_instruction_success">Обучение системы</string>
