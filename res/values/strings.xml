@@ -43,4 +43,12 @@
 
     <string name="notification_title">Voice wakeup is available</string>
     <string name="notification_text">Control your phone with your voice. Tap to begin training your new device.</string>
+
+    <string name="trust_agent_title">VoiceWakeup Trust Agent</string>
+    <string name="trust_agent_summary">Unlock your phone with your voice</string>
+
+    <string name="trust_granted_by_voice">Trust granted by your voice</string>
+
+    <string name="permission_denied_text">VoiceWakeup must be able to record your voice for training.</string>
+    <string name="try_again">Try again</string>
 </resources>
