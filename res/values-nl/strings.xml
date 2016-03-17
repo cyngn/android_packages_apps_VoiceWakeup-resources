@@ -38,4 +38,5 @@
   <string name="training_instruction_processing">Uw stem verwerken\u2026</string>
   <string name="notification_title">\'Ontwaken met stem\' is beschikbaar</string>
   <string name="notification_text">Bedien uw telefoon met uw stem. Tik om te beginnen met het trainen van uw nieuwe apparaat.</string>
+  <string name="try_again">Probeer opnieuw</string>
 </resources>

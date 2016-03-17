@@ -36,6 +36,11 @@
   <string name="training_instruction_last_time">I još samo jednom!</string>
   <string name="training_instruction_success">Treniranje sustava</string>
   <string name="training_instruction_processing">Obrada vašega glasa.\u2026</string>
-  <string name="notification_title">Glasovno buđenje je dostupno</string>
+  <string name="notification_title">Buđenje glasom je dostupno</string>
   <string name="notification_text">Kontrolirajte svoj telefon svojim glasom. Dodirnite za početak treniranja vašeg uređaja.</string>
+  <string name="trust_agent_title">Voice Wakeup Trust Agent</string>
+  <string name="trust_agent_summary">Otključajte telefon sa svojim glasom</string>
+  <string name="trust_granted_by_voice">Povjerenje odobreno vašim glasom</string>
+  <string name="permission_denied_text">Buđenje glasom mora biti u mogućnosti snimiti vaš glas za trening.</string>
+  <string name="try_again">Pokušajte ponovo</string>
 </resources>

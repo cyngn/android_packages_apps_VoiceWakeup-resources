@@ -16,10 +16,25 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">స్వర మేల్కొలుపు</string>
   <!-- Strings that can be overlayed -->
   <!--sub: wakeup_phrase -->
+  <string name="training_subtitle">ప్రారంభించేందుకు, తెర మధ్యలో ఉన్న మైక్రోఫోనును ట్యాప్ చేయుము. ఆ తరువాత చెప్పండి \&quot;%1$s\&quot;</string>
   <!--sub1: device_name, sub2: wakeup_phrase -->
+  <string name="training_instruction_intro">మీ స్వరాన్ని గుర్తించేందుకు మీ యొక్క క్రొత్త %1$sకు శిక్షణ ఇద్దాం.\n\nదీని కొరకు మీరు నిశబ్దంగా ఉండే చోటును వెతకండి.\n\nమీరు సిద్ధంగా ఉన్నప్పుడు, క్రింద ఉన్న బటన్ ట్యాప్ చేయండి మరియు తెర పైన ఉన్న ప్రాంప్టులను అనుసరించండి.</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_error">అయ్యో, మీరు చెప్పేది వినిపించడం లేదు. \&quot;%1$s\&quot; ను మరలా చెప్పడానికి ప్రయత్నించండి</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_try">\&quot;%1$s\&quot; చెప్పడానికి ప్రయత్నించండి</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_outro">పర్ఫెక్ట్, మీరు ఇప్పుడు పూర్తిగా సిద్ధంగా ఉన్నారు! మీ పరికరం ఇప్పుడు మీ స్వరానికి అనుగుణంగా శిక్షణ ఇవ్వబడింది. మీరు ఎప్పుడూ కూడా సెట్టింగుల నుండి ఈ శిక్షణ ప్రక్రియను పునరావృత్తం చేయవచ్చు.\n\n\&quot;%1$s\&quot; చెప్పడం ద్వారా మీ పరికరాన్ని మేల్కొల్పండి</string>
+  <string name="training_title">మీ స్వరానికి శిక్షణ ఇవ్వండి</string>
+  <string name="training_button_train">పదండి వెళదాం</string>
+  <string name="training_button_all_done">అంతా పూర్తయింది</string>
+  <string name="training_button_reset">తరువాత తిరిగి రండి</string>
+  <string name="training_instruction_again">గ్రేట్, మరలా ఇంకొకసారి చేద్దాం.</string>
+  <string name="training_instruction_last_time">చివరిసారిగా!</string>
+  <string name="training_instruction_success">సిస్టంకు శిక్షణ ఇవ్వబడుతుంది</string>
+  <string name="training_instruction_processing">మీ స్వరం ప్రాసెస్ చేయబడుతూ ఉంది\u2026</string>
+  <string name="notification_text">మీ ఫోనును మీ స్వరంతో నియంత్రించండి. మీ యొక్క క్రొత్త పరికరానికి శిక్షణ ప్రారంభించేందుకు ట్యాప్ చేయుము.</string>
 </resources>

@@ -36,6 +36,11 @@
   <string name="training_instruction_last_time">ئاخىرقى بىر قېتىم!</string>
   <string name="training_instruction_success">سىستېمىنى مەشقلەندۈرۈۋاتىدۇ</string>
   <string name="training_instruction_processing">ئاۋازىڭىزنى بىر تەرەپ قىلىۋاتىدۇ\u2026</string>
-  <string name="notification_title">ئاۋازدا ئويغىتىش ئىشلىتىشچان</string>
+  <string name="notification_title">ئاۋازدا ئويغىتىشنى ئىشلەتكىلى بۇلىدۇ</string>
   <string name="notification_text">تېلېفونىڭىزنى ئاۋازىڭىز ئارقىلىق تىزگىنلەڭ. چېكىپ يېڭى ئۈسكۈنىڭىزنى مەشقلەندۈرۈڭ.</string>
+  <string name="trust_agent_title">ئاۋازلىق ئويغىتىش ۋاكالەتچىگە ئىشىنىدۇ</string>
+  <string name="trust_agent_summary">تېلېفوننىڭ قۇلۇپىنى ئاۋاز ئارقىلىق ئېچىڭ</string>
+  <string name="trust_granted_by_voice">ئاۋازىڭىز ئارقىلىق ھوقۇق بېرىڭ</string>
+  <string name="permission_denied_text">ئاۋازلىق ئويغىتىشنى مەشىق قىلىش ئۈچۈن ئۈن ئېلىش قوزغىتىلىشى كېرەك.</string>
+  <string name="try_again">قايتا سىناڭ</string>
 </resources>

@@ -36,6 +36,5 @@
   <string name="training_instruction_last_time">Axırıncı dәfә!</string>
   <string name="training_instruction_success">Sistem öyrədilir</string>
   <string name="training_instruction_processing">Səsiniz işlənir\u2026</string>
-  <string name="notification_title">Səslə oyanma istifadə oluna bilər</string>
   <string name="notification_text">Telefonunuzu səsinizlə yoxlayın. Yeni cihazınızı öyrətməyə başlamaq üçün toxunun.</string>
 </resources>

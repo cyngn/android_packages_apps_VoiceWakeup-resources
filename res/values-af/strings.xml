@@ -39,4 +39,9 @@ Perfek, jy is nou opgestel! Jou toestel is nou opgelei vir jou stem. Jy kan alty
   <string name="training_instruction_processing">Verwerk tans you stem\u2026</string>
   <string name="notification_title">Stem aktivering is beskikbaar</string>
   <string name="notification_text">Beheer jou selfoon met jou stem. Tik om opleiding te begin met jou nuwe toestel.</string>
+  <string name="trust_agent_title">Stem aktivering vertroue agent</string>
+  <string name="trust_agent_summary">Ontsluit jou foon met jou stem</string>
+  <string name="trust_granted_by_voice">Vertroue verleen deur jou stem</string>
+  <string name="permission_denied_text">Stem aktivering moet in staat wees om jou stem op te neem vir opleiding.</string>
+  <string name="try_again">Probeer weer</string>
 </resources>

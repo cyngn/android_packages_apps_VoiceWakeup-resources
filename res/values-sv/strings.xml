@@ -36,6 +36,8 @@
   <string name="training_instruction_last_time">En sista gång!</string>
   <string name="training_instruction_success">Tränar systemet</string>
   <string name="training_instruction_processing">Bearbetar din röst\u2026</string>
-  <string name="notification_title">Röstväckning är tillgänglig</string>
   <string name="notification_text">Kontrollera din telefon med din röst. Tryck för att börja träna din nya enhet.</string>
+  <string name="trust_agent_summary">Lås upp telefonen med rösten</string>
+  <string name="trust_granted_by_voice">Förtroende beviljades med din röst</string>
+  <string name="try_again">Försök igen</string>
 </resources>

@@ -38,4 +38,9 @@
   <string name="training_instruction_processing">Zpracovávání hlasu\u2026</string>
   <string name="notification_title">Probuzení hlasem je dostupné</string>
   <string name="notification_text">Ovládejte telefon hlasem. Stisknutím zahájíte proces učení hlasovým povelům.</string>
+  <string name="trust_agent_title">Důvěryhodný agent hlasového probuzení</string>
+  <string name="trust_agent_summary">Odemknutí telefonu pomocí hlasu</string>
+  <string name="trust_granted_by_voice">Důvěryhodnost pomocí hlasu</string>
+  <string name="permission_denied_text">Pro naučení musí Hlasové probuzení být schopné nahrávat hlas.</string>
+  <string name="try_again">Zkuste to znovu</string>
 </resources>

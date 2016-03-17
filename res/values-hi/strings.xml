@@ -36,6 +36,5 @@
   <string name="training_instruction_last_time">एक आखिरी बार और!</string>
   <string name="training_instruction_success">प्रणाली का प्रशिक्षण</string>
   <string name="training_instruction_processing">अपनी आवाज़ का संसाधन\u2026</string>
-  <string name="notification_title">आवाज़ से जगाने की सुविधा उपलब्ध है</string>
   <string name="notification_text">अपनी आवाज़ से अपने फ़ोन को नियंत्रित करें। अपने नए उपकरण को प्रशिक्षित करने के लिए टैप करें।</string>
 </resources>

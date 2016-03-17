@@ -36,6 +36,11 @@
   <string name="training_instruction_last_time">Un\'ultima volta!</string>
   <string name="training_instruction_success">Addestramento del sistema</string>
   <string name="training_instruction_processing">Elaborando la tua voce\u2026</string>
-  <string name="notification_title">Il risveglio vocale è disponibile</string>
+  <string name="notification_title">Risveglio vocale disponibile</string>
   <string name="notification_text">Controlla il telefono con la tua voce. Tocca per iniziare ad addestrare il tuo nuovo dispositivo.</string>
+  <string name="trust_agent_title">Trust Agent Risveglio Vocale</string>
+  <string name="trust_agent_summary">Sblocca il telefono con la voce</string>
+  <string name="trust_granted_by_voice">Autenticazione tramite la voce</string>
+  <string name="permission_denied_text">Risveglio Vocale deve essere in grado di registrare la tua voce per essere configurato.</string>
+  <string name="try_again">Riprova</string>
 </resources>

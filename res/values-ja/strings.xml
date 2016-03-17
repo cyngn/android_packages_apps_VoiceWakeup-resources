@@ -36,6 +36,5 @@
   <string name="training_instruction_last_time">最後にもう一度 ！</string>
   <string name="training_instruction_success">システムを設定中</string>
   <string name="training_instruction_processing">声を処理中\u2026</string>
-  <string name="notification_title">音声起動が利用可能です</string>
   <string name="notification_text">声で携帯電話をコントロールします。タップすると新しい端末の設定を開始します。</string>
 </resources>

@@ -38,4 +38,9 @@
   <string name="training_instruction_processing">Обработка голосовых данных\u2026</string>
   <string name="notification_title">Доступно включение голосовой командой</string>
   <string name="notification_text">Управляйте телефоном с помощью голоса. Нажмите для начала процесса обучения.</string>
+  <string name="trust_agent_title">Агент доверия включ. голосом</string>
+  <string name="trust_agent_summary">Позволяет разблокировать телефон голосом</string>
+  <string name="trust_granted_by_voice">Доступ предоставлен образцом голоса</string>
+  <string name="permission_denied_text">Функция включения голосовой командой должна быть активна для обучения вашему голосу.</string>
+  <string name="try_again">Повторить</string>
 </resources>

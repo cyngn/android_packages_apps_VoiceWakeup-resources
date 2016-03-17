@@ -22,4 +22,10 @@
   <!--sub: wakeup_phrase -->
   <!--sub: wakeup_phrase -->
   <!--sub: wakeup_phrase -->
+  <string name="notification_title">La activación por voz está disponible</string>
+  <string name="trust_agent_title">Agente de confianza de activación por voz</string>
+  <string name="trust_agent_summary">Desbloquear el teléfono con tu voz</string>
+  <string name="trust_granted_by_voice">Confianza otorgada por tu voz</string>
+  <string name="permission_denied_text">La activación por voz necesita poder grabar tu voz para entrenarse.</string>
+  <string name="try_again">Intentar de nuevo</string>
 </resources>

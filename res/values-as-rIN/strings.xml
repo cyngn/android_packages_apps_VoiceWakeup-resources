@@ -16,10 +16,25 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">ভইচ ৱেকআপ</string>
   <!-- Strings that can be overlayed -->
   <!--sub: wakeup_phrase -->
+  <string name="training_subtitle">আৰম্ভ কৰিবলৈ, স্ক্ৰীণৰ কেন্দ্ৰত মাইক্ৰ\'ফোনটো টেপ কৰক। তাৰপাছত কওক \&quot;%1$s\&quot;</string>
   <!--sub1: device_name, sub2: wakeup_phrase -->
+  <string name="training_instruction_intro">আহক আপোনাৰ %1$s ক আপোনাৰ ভইচ চিনাক্ত কৰিবলৈ প্ৰশিক্ষিত কৰো।\n\nইয়াৰ বাবে আপুনি এখন নীৰৱ স্থান বিচাৰিব লাগিব।\n\nআপুনি যেতিয়া সাজু হ\'ব, তলৰ বুটামটো টেপ কৰক আৰু অন স্ক্ৰীণ নিৰ্দেশনা অনুসৰণ কৰক।</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_error">ওহ, আপোনাৰ কথা শুনিব নাপালো। পুনৰ \&quot;%1$s\&quot; কোৱাৰ চেষ্টা কৰক</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_try">\&quot;%1$s\&quot; কোৱাৰ চেষ্টা কৰক</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_outro">সঠিক, আপোনাৰ সকলো সাজু হৈছে! আপোনাৰ ডিভাইচটো এতিয়া আপোনাৰ ভইচৰ বাবে প্ৰশিক্ষিত। আপুনি সদায় এই প্ৰশিক্ষণ প্ৰক্ৰিয়াটো ছেটিংচৰ পৰা পুনৰাবৃত্তি কৰিব পাৰে।\n\nআপোনাৰ ডিভাইচটো যিকোনো সময়তে\&quot;%1$s\&quot; বুলি কৈ ৱেক কৰক</string>
+  <string name="training_title">আপোনাৰ ভইচটো প্ৰশিক্ষিত কৰক</string>
+  <string name="training_button_train">যাও আহক</string>
+  <string name="training_button_all_done">সকলো কৰা হ\'ল</string>
+  <string name="training_button_reset">পাছত আকৌ আহিম</string>
+  <string name="training_instruction_again">সুন্দৰ! এইটো পুনৰ কৰো আহক।</string>
+  <string name="training_instruction_last_time">এইবাৰ শেষ বাৰ!</string>
+  <string name="training_instruction_success">ছিষ্টেমক প্ৰশিক্ষিত কৰা</string>
+  <string name="training_instruction_processing">আপোনাৰ ভইচ প্ৰক্ৰিয়া কৰি আছে\u2026</string>
+  <string name="notification_text">আপোনাৰ ভইচেৰে আপোনাৰ ফোনটো নিয়ন্ত্ৰণ কৰক। আপোনাৰ নতুন ডিভাইচটোৰ প্ৰশিক্ষণ আৰম্ভ কৰিবলৈ টেপ কৰক।</string>
 </resources>

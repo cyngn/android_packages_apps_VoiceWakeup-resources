@@ -36,6 +36,5 @@
   <string name="training_instruction_last_time">Vēl pēdējo reizi!</string>
   <string name="training_instruction_success">Sistēmas apmācība</string>
   <string name="training_instruction_processing">Apstrādā jūsu balsi\u2026</string>
-  <string name="notification_title">Ir pieejama balss pamodināšana</string>
   <string name="notification_text">Vadiet savu telefonu ar savu balsi. Piesitiet, lai sāktu mācīt savu jauno iekārtu.</string>
 </resources>

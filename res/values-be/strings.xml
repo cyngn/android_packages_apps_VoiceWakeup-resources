@@ -36,6 +36,5 @@
   <string name="training_instruction_last_time">Апошні раз!</string>
   <string name="training_instruction_success">Навучанне сістэмы</string>
   <string name="training_instruction_processing">Апрацоўка галасавых дадзеных\u2026</string>
-  <string name="notification_title">Даступна ўлучэнне галасавой камандай</string>
   <string name="notification_text">Кіруйце тэлефонам з дапамогай голасу. Націсніце для пачатку працэсу навучання.</string>
 </resources>

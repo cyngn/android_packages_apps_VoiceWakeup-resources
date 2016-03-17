@@ -36,6 +36,5 @@
   <string name="training_instruction_last_time">A última vez!</string>
   <string name="training_instruction_success">Adestrar o sistema</string>
   <string name="training_instruction_processing">Procesando a súa voz\u2026</string>
-  <string name="notification_title">A activación coa voz está dispoñíbel</string>
   <string name="notification_text">Controle o seu teléfono coa voz. Toque para comezar o adestramento do seu dispositivo.</string>
 </resources>

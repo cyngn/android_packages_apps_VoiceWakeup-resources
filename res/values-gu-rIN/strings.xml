@@ -16,11 +16,31 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">અવાજ આપી જગાડો</string>
+  <string name="app_name">વૉઇસ વેકઅપ</string>
   <!-- Strings that can be overlayed -->
   <!--sub: wakeup_phrase -->
+  <string name="training_subtitle">શરૂ કરવા સ્ક્રીનનાં મધ્યમાં માઇક્રોફોન પર ટૅપ કરો. પછી બોલો \&quot;%1$s\&quot;</string>
   <!--sub1: device_name, sub2: wakeup_phrase -->
+  <string name="training_instruction_intro">તમારો અવાજ ઓળખવા માટે ચાલો આપણે તમારા નવા %1$s ને તાલીમ આપીએ.\n\nઆને માટે તમારે કોઇ શાંત ‌સ્થળની જરૂર પડશે.\n\nજ્યારે તમે તૈયાર હોવ ત્યારે નીચે આપેલ બટન પર ટૅપ કરો અને ઑન-સ્ક્રીન પ્રૉમ્પ્ટ્સ અનુસરો.</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_error">ઓહ, તમને સાંભળી ન શક્યા. \&quot;%1$s\&quot; બોલવાનો ફરી પ્રયાસ કરો</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_try">\&quot;%1$s\&quot; બોલવાનો પ્રયાસ કરો</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_outro">સરસ, તમે હવે તૈયાર છો! તમારું ડિવાઇસ હવે તમારા અવાજથી તાલીમબદ્ધ છે. તમે કોઇ પણ સમયે સેટિંગ્સમાંથી આ તાલીમ પ્રક્રિયા ફરીથી કરી શકો છો.\n\nફક્ત \&quot;%1$s\&quot; બોલીને તમે તમારા ડિવાઇસને કોઇ પણ સમયે જગાવી શકો છો.</string>
+  <string name="training_title">આપના અવાજને તાલીમ આપો</string>
+  <string name="training_button_train">ચાલો આગળ વધીએ</string>
+  <string name="training_button_all_done">તમામ સમાપ્ત</string>
+  <string name="training_button_reset">પછીથી પાછા ફરો</string>
+  <string name="training_instruction_again">વાહ, ચાલો ફરી કરીએ.</string>
+  <string name="training_instruction_last_time">બસ છેલ્લી વખત!</string>
+  <string name="training_instruction_success">સિસ્ટમને તાલીમ આપવામાં આવી રહી છે</string>
+  <string name="training_instruction_processing">તમારા અવાજ પર પ્રક્રિયા થઈ રહી છે\u2026</string>
+  <string name="notification_title">વૉઇસ વૅકઅપ ઉપલબ્ધ છે</string>
+  <string name="notification_text">તમારા અવાજથી તમારા ફોનને કાબૂમાં રાખો તમારા નવા ડિવાઇસને તાલીમ આપવાનું શરૂ કરવા ટૅપ કરો.</string>
+  <string name="trust_agent_title">વોઇસ વૅકઅપ ટ્રસ્ટ એજન્ટ</string>
+  <string name="trust_agent_summary">તમારા અવાજ દ્વારા ફોન અનલૉક કરો</string>
+  <string name="trust_granted_by_voice">ટ્રસ્ટ તમારા અવાજ દ્વારા મંજૂર</string>
+  <string name="permission_denied_text">વોઇસ વૅકઅપ તમારો અવાજ તાલીમ માટે રેકોર્ડ કરવામા સક્ષમ હોવા જ જોઈએ.</string>
+  <string name="try_again">ફરી પ્રયાસ કરો</string>
 </resources>

@@ -38,4 +38,9 @@
   <string name="training_instruction_processing">正在处理您的语音\u2026</string>
   <string name="notification_title">语音唤醒可用</string>
   <string name="notification_text">用您的声音控制您的手机。点击并开始训练您的新设备。</string>
+  <string name="trust_agent_title">语音唤醒信任代理</string>
+  <string name="trust_agent_summary">使用您的声音解锁手机</string>
+  <string name="trust_granted_by_voice">已用您的声音授信</string>
+  <string name="permission_denied_text">语音唤醒必须经由记录您的声音以进行训练。</string>
+  <string name="try_again">再试一次</string>
 </resources>

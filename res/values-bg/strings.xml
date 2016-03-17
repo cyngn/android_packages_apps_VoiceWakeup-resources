@@ -38,4 +38,9 @@
   <string name="training_instruction_processing">Обработка на вашия глас\u2026</string>
   <string name="notification_title">Гласовото събуждане е достъпно</string>
   <string name="notification_text">Управлявай телефона с гласа си. Натиснете, за да започнете обучението на новото си устройство.</string>
+  <string name="trust_agent_title">VoiceWakeup Trust Agent</string>
+  <string name="trust_agent_summary">Отключeте вашият телефон с гласа си</string>
+  <string name="trust_granted_by_voice">Предоставен е достъп с гласа Ви</string>
+  <string name="permission_denied_text">VoiceWakeup трябва да запише гласа Ви за обучението.</string>
+  <string name="try_again">Опитайте отново</string>
 </resources>

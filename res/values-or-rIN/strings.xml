@@ -16,10 +16,25 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">ଭଏସ୍‍ ୱେକ୍‍ଅପ୍‍</string>
   <!-- Strings that can be overlayed -->
   <!--sub: wakeup_phrase -->
+  <string name="training_subtitle">ଆରଂଭ କରିବା ପାଇଁ, ସ୍କ୍ରିନ୍‍ର ମଧ୍ୟଭାଗରେ ମାଇକ୍ରୋଫୋନ୍‍ରେ ଟ୍ୟାପ୍‍ କରନ୍ତୁ। ଏହାପରେ କୁହନ୍ତୁ \&quot;%1$s\&quot;</string>
   <!--sub1: device_name, sub2: wakeup_phrase -->
+  <string name="training_instruction_intro">ଆପଣଙ୍କ ନୂତନ %1$sକୁ ଆପଣଙ୍କ ସ୍ୱର ଚିହ୍ନିବା ପାଇଁ ତାଲିମ୍‍ ଦିଅନ୍ତୁ।\n\nଆପଣ ଏହା ପାଇଁ ଏକ ଶାନ୍ତ ଥାନ ପାଇବାକୁ ଚାହିଁବେ।\n\nଯେତେବେ୍ଳେ ଆପଣ ପ୍ରସ୍ତୁତ ହେବେ, ତଳେ ଥିବା ବଟନ୍‍ରେ ଟ୍ୟାପ୍‍ କରନ୍ତୁ ଓ ଅନ୍‍-ସ୍କ୍ରିନ୍‍ ପ୍ରମ୍ପ୍ଟ୍‍ଗୁଡିକ ଅନୁସରଣ କରନ୍ତୁ।</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_error">ଉପ୍ସ, ଆପଣଙ୍କୁ ଆମେ ଶୁଣିପା୍ରୁନା୍ହୁଁ। ପୁନର୍ବାର \&quot;%1$s\” କହିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_try">\&quot;%1$s\” କହିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_outro">ସମ୍ପୂର୍ଣ୍ଣ ଠିକ୍‍ ଅଛି, ଆପଣ ପ୍ରସ୍ତୁତ ହୋଇସାରି୍ଛନ୍ତି! ଆପଣଙ୍କ ଡିଭାଇସ୍‍ ବର୍ତ୍ତମାନ ଆପଣଙ୍କ ସ୍ୱର ପାଇଁ ତାଲିମ୍‍ପ୍ରାପ୍ତ କରିସାରିଛି। ଆପଣ ସର୍ବଦା ଏହି ତାଲିମ୍‍ ପ୍ରକ୍ରିୟା ସେଟିଂସ୍‍ରୁ ଦୋହରାଇପାରିବେ।\n\nଯେ କୌଣସି ସମୟରେ ଆପଣଙ୍କ ଡିଭାଇସ୍‍କୁ \&quot;%1$s\&quot;କହି ଉଠାନ୍ତୁ</string>
+  <string name="training_title">ଆପଣଙ୍କ ସ୍ୱର ତାଲିମ୍‍ଯୁକ୍ତ କର୍ତନ୍ତୁ</string>
+  <string name="training_button_train">ଚାଲନ୍ତୁ ଯିବା</string>
+  <string name="training_button_all_done">ସବୁ ଶେଷ</string>
+  <string name="training_button_reset">ପରେ ପୁନର୍ବାର ଆସନ୍ତୁ</string>
+  <string name="training_instruction_again">ବହୁତ ଭଲ, ଚାଲନ୍ତୁ ଏହା ପୁନର୍ବାର କରିବା।</string>
+  <string name="training_instruction_last_time">ଏହି ଶେଷ ଥର ପାଇଁ!</string>
+  <string name="training_instruction_success">ସିଷ୍ଟମ୍‍କୁ ତାଲିମ୍‍ ଦିଆଯାଉଛି</string>
+  <string name="training_instruction_processing">ଆପଣଙ୍କ ସ୍ୱର ପ୍ରକ୍ରିୟାକରଣ ହେଉଛି\u2026</string>
+  <string name="notification_text">ଆପଣଙ୍କ ସ୍ୱର ଦ୍ୱାରା ଆପଣଙ୍କ ଫୋନ୍‍କୁ ନିୟନ୍ତ୍ରଣ କ୍ରନ୍ତୁ। ଆପଣଙ୍କ ନୂତନ ଡିଭାଇସ୍‍କୁ ତାଲିମ୍‍ ଦେବା ଆରଭ କରିବା ପାଇଁ ଟ୍ୟାପ୍‍ କରନ୍ତୁ।</string>
 </resources>

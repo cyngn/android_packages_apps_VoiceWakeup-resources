@@ -36,6 +36,5 @@
   <string name="training_instruction_last_time">Последњи пут!</string>
   <string name="training_instruction_success">Тренирање система</string>
   <string name="training_instruction_processing">Обрађивање Вашег гласа\u2026</string>
-  <string name="notification_title">Гласовно буђење је доступно</string>
   <string name="notification_text">Контролишите Ваш телефон са својим гласом. Додирните да би сте почели тренинг Вашег новог уређаја.</string>
 </resources>

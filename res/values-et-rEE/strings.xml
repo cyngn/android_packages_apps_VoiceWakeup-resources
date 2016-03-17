@@ -36,6 +36,5 @@
   <string name="training_instruction_last_time">Viimane kord!</string>
   <string name="training_instruction_success">Treenin süsteemi</string>
   <string name="training_instruction_processing">Töötlen sinu häält\u2026</string>
-  <string name="notification_title">Hääläratus on saadaval</string>
   <string name="notification_text">Kontrolli oma telefoni oma häälega. Puudutage et alustada sinu uue seadme treenimist.</string>
 </resources>

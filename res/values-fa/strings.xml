@@ -36,6 +36,5 @@
   <string name="training_instruction_last_time">برای بار آخر!</string>
   <string name="training_instruction_success">آموزش سیستم</string>
   <string name="training_instruction_processing">در حال پردازش صدای شما\u2026</string>
-  <string name="notification_title">بیدار باش صوتی در دسترس است</string>
   <string name="notification_text">تلفن خود را با صدایتان کنترل کنید. برای شروع آموزش دستگاه جدید، ضربه بزنید.</string>
 </resources>

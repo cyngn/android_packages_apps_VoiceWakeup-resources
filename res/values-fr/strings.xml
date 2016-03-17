@@ -36,6 +36,11 @@
   <string name="training_instruction_last_time">Une dernière fois !</string>
   <string name="training_instruction_success">Apprentissage du système</string>
   <string name="training_instruction_processing">Traitement de votre voix\u2026</string>
-  <string name="notification_title">Le réveil par la voix est disponible</string>
+  <string name="notification_title">Réveil par la voix est disponible</string>
   <string name="notification_text">Contrôler votre téléphone avec votre voix. Appuyez pour commencer l\'apprentissage.</string>
+  <string name="trust_agent_title">Agent de confiance Réveil par la voix</string>
+  <string name="trust_agent_summary">Déverrouiller le téléphone à la voix</string>
+  <string name="trust_granted_by_voice">Confiance accordée par votre voix</string>
+  <string name="permission_denied_text">Réveil par la voix doit pouvoir enregistrer votre voix pour s\'entraîner à la reconnaître.</string>
+  <string name="try_again">Réessayer</string>
 </resources>

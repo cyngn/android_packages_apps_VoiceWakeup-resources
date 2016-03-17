@@ -38,4 +38,9 @@
   <string name="training_instruction_processing">Ihre Stimme wird verarbeitet\u2026</string>
   <string name="notification_title">Mit Stimme wecken ist verfügbar</string>
   <string name="notification_text">Steuern Sie Ihr Telefon mit Ihrer Stimme. Berühren, um Ihr Gerät zu trainieren.</string>
+  <string name="trust_agent_title">Voice Wakeup Trust Agent</string>
+  <string name="trust_agent_summary">Entsperren Sie Ihr Telefon mit Ihrer Stimme</string>
+  <string name="trust_granted_by_voice">Vertrauen durch Ihre Stimme gewährt</string>
+  <string name="permission_denied_text">Voice Wakeup muss Ihre Stimme zu Trainingszwecken aufnehmen können.</string>
+  <string name="try_again">Erneut versuchen</string>
 </resources>

@@ -38,4 +38,9 @@
   <string name="training_instruction_processing">Zure ahotsa prozesatzen\u2026</string>
   <string name="notification_title">Ahotsaren bidezko esnatzea eskuragarri dago</string>
   <string name="notification_text">Kontrolatu zure gailua ahotsaren bidez. Sakatu entrenatzen hasteko.</string>
+  <string name="trust_agent_title">VoiceWakeup Trust Agent</string>
+  <string name="trust_agent_summary">Desblokeatu zure telefonoa zure ahotsarekin</string>
+  <string name="trust_granted_by_voice">Zure ahotsa da bermea</string>
+  <string name="permission_denied_text">VoiceWakeup-ek zure ahotsa grabatu behar du entrenatzeko.</string>
+  <string name="try_again">Saiatu berriro</string>
 </resources>

@@ -38,4 +38,9 @@
   <string name="training_instruction_processing">Käsitellään ääntäsi\u2026</string>
   <string name="notification_title">Ääniherättäminen on saatavilla</string>
   <string name="notification_text">Ohjaa puhelinta äänelläsi. Paina aloittaaksesi uuden laitteesi opetuksen.</string>
+  <string name="trust_agent_title">Ääniherättämisen Trust Agent</string>
+  <string name="trust_agent_summary">Avaa puhelimesi puheellasi</string>
+  <string name="trust_granted_by_voice">Puheesi lisätty luotettuihin ääniin</string>
+  <string name="permission_denied_text">Ääniherättämisen tulee nauhoittaa ääntäsi harjoitellakseen.</string>
+  <string name="try_again">Yritä uudelleen</string>
 </resources>

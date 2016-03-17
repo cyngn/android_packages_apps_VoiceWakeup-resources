@@ -36,6 +36,5 @@
   <string name="training_instruction_last_time">最後一次！</string>
   <string name="training_instruction_success">訓練系統</string>
   <string name="training_instruction_processing">正在處理您的聲音\u2026</string>
-  <string name="notification_title">聲音喚醒已可用</string>
   <string name="notification_text">利用您的聲音控制手機。輕觸即可開始訓練您的新裝置。</string>
 </resources>

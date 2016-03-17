@@ -36,6 +36,5 @@
   <string name="training_instruction_last_time">Eng lescht Kéier!</string>
   <string name="training_instruction_success">System trainéieren</string>
   <string name="training_instruction_processing">Deng Stëmm gëtt veraarbecht\u2026</string>
-  <string name="notification_title">Mat Stëmm waakreg maachen ass disponibel</string>
   <string name="notification_text">Steier däin Telefon mat denger Stëmm. Dréck fir mam Training vun dengem neien Apparat unzefänken.</string>
 </resources>

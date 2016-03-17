@@ -36,6 +36,5 @@
   <string name="training_instruction_last_time">ಒಂದು ಬಾರಿ ಕೊನೆಯದಾಗಿ!</string>
   <string name="training_instruction_success">ಸಿಸ್ಟಂನ ತರಬೇತಿ</string>
   <string name="training_instruction_processing">ನಿಮ್ಮ ಧ್ವನಿಯನ್ನು ಪ್ರೊಸೆಸ್ ಮಾಡಲಾಗುತ್ತಿದೆ\u2026</string>
-  <string name="notification_title">ಧ್ವನಿ ಎಬ್ಬಿಸುವಿಕೆ ಲಭ್ಯವಿದೆ</string>
   <string name="notification_text">ನಿಮ್ಮ ಫೋನನ್ನು ನಿಮ್ಮ ಧ್ವನಿಯ  ಮೂಲಕ ನಿಯಂತ್ರಿಸಿ. ನಿಮ್ಮ ಹೊಸ ಸಾಧನಕ್ಕೆ ತರಬೇತಿ ನೀಡಲು ಸ್ಪರ್ಶಿಸಿ.</string>
 </resources>

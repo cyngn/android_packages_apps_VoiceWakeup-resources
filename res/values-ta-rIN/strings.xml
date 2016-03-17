@@ -16,10 +16,25 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">குரல் விழித்தெழு</string>
   <!-- Strings that can be overlayed -->
   <!--sub: wakeup_phrase -->
+  <string name="training_subtitle">தொடங்க, திரையின் மையத்தில் இருக்கும் மைக்ரோஃபோனை தட்டு பின்னர் சொல் \&quot;%1$s\&quot;</string>
   <!--sub1: device_name, sub2: wakeup_phrase -->
+  <string name="training_instruction_intro">புதிய %1$s உங்கள் குரலை உணர்ந்துகொள்ள பயிற்சியளிப்போம். \n\n நீங்கள் இதற்காக ஒரு அமைதியான இடத்தை கண்டுபிடிக்க விரும்புவீர்கள். \n\n நீங்கள் தயாரானது, கீழுள்ல பொத்தானை தட்டி திரையிலுள்ள தூண்டுதல்களை பின்பற்றுக</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_error">அச்சச்சோ, நீங்கள் சொல்வது கேட்கவில்லை. மீண்டும் \&quot;%1$s\&quot;  சொல்ல முயற்சிக்கவும்</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_try">\&quot;%1$s\&quot; சொல்ல முயற்சிக்கவும்</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_outro">அருமை, நீங்கள் தயார்! உங்கள் சாதனம் இப்போது உங்கள் குரலுக்காக பயிற்சிபெற்றுவிட்டது. இந்த பயிற்சி செயல்முறையை எப்போதும் நீங்கள் அமைப்புகளில் இருந்து திரும்பச்செய்யலாம். \n\n உங்கள் சாதனத்தை எந்நேரமும் \&quot;%1$s\&quot;  என்று சொல்லி எழுப்பலாம்</string>
+  <string name="training_title">உங்கள் குரலை பயிற்சிசெய்யவும்</string>
+  <string name="training_button_train">போகவிடுங்கள்</string>
+  <string name="training_button_all_done">அனைத்தும் முடிந்தது</string>
+  <string name="training_button_reset">மீண்டும் வருக</string>
+  <string name="training_instruction_again">அற்புதம், நாம் மீண்டும் செய்வோம்.</string>
+  <string name="training_instruction_last_time">கடைசியாக ஒருமுறை!</string>
+  <string name="training_instruction_success">கணினியை பயிற்றுவிக்கிறது</string>
+  <string name="training_instruction_processing">உங்கள் குரலை செயல்முறைப்படுத்துகிறது\u2026</string>
+  <string name="notification_text">உங்கள் தொலைப்பேசியை உங்கள் குரலால் கட்டுப்படுத்துங்கள் உங்கள் புதிய சாதனத்தை பயிற்றுவிக்க தட்டவும்.</string>
 </resources>
