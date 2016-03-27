@@ -36,5 +36,11 @@
   <string name="training_instruction_last_time">En sidste gang!</string>
   <string name="training_instruction_success">Træner systemet</string>
   <string name="training_instruction_processing">Behandler din stemme\u2026</string>
+  <string name="notification_title">Stemmevækning er tilgængelig</string>
   <string name="notification_text">Kontrollér din telefon med din stemme. Tryk for at starte træning af din nye enhed.</string>
+  <string name="trust_agent_title">Tillidsagent for stemmevækning</string>
+  <string name="trust_agent_summary">Lås din telefon op med din stemme</string>
+  <string name="trust_granted_by_voice">Tillid givet via din stemme</string>
+  <string name="permission_denied_text">Stemmevækning skal være i stand til at optage din stemme når du øver dig.</string>
+  <string name="try_again">Prøv igen</string>
 </resources>

@@ -36,5 +36,11 @@
   <string name="training_instruction_last_time">Апошні раз!</string>
   <string name="training_instruction_success">Навучанне сістэмы</string>
   <string name="training_instruction_processing">Апрацоўка галасавых дадзеных\u2026</string>
+  <string name="notification_title">Даступна ўлучэнне галасавой камандай</string>
   <string name="notification_text">Кіруйце тэлефонам з дапамогай голасу. Націсніце для пачатку працэсу навучання.</string>
+  <string name="trust_agent_title">Агент даверу ўлучэння голасам</string>
+  <string name="trust_agent_summary">Дазваляе разблакаваць тэлефон голасам</string>
+  <string name="trust_granted_by_voice">Доступ пададзены ўзорам голасу</string>
+  <string name="permission_denied_text">Функцыя ўлучэння галасавой камандай павінна быць актыўная для навучання голасу.</string>
+  <string name="try_again">Паўтарыць</string>
 </resources>

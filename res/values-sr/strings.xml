@@ -36,5 +36,11 @@
   <string name="training_instruction_last_time">Последњи пут!</string>
   <string name="training_instruction_success">Тренирање система</string>
   <string name="training_instruction_processing">Обрађивање Вашег гласа\u2026</string>
+  <string name="notification_title">Гласовно буђење је доступно</string>
   <string name="notification_text">Контролишите Ваш телефон са својим гласом. Додирните да би сте почели тренинг Вашег новог уређаја.</string>
+  <string name="trust_agent_title">Агент гласовног буђења</string>
+  <string name="trust_agent_summary">Откључај телефон гласом</string>
+  <string name="trust_granted_by_voice">Потврда гласом</string>
+  <string name="permission_denied_text">Гласовно буђење мора моћи да снима твој глас за обуку.</string>
+  <string name="try_again">Покушај поново</string>
 </resources>

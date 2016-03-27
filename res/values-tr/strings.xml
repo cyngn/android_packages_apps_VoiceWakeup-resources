@@ -36,5 +36,11 @@
   <string name="training_instruction_last_time">Son bir kez!</string>
   <string name="training_instruction_success">Sistem eğitiliyor</string>
   <string name="training_instruction_processing">Sesiniz işleniyor\u2026</string>
+  <string name="notification_title">Sesli Uyandırma kullanılabilir</string>
   <string name="notification_text">Sesinizle telefonunuzu kontrol edin. Yeni cihazınızı eğitmeye başlamak için dokunun.</string>
+  <string name="trust_agent_title">Sesli Uyandırma Güven Ajanı</string>
+  <string name="trust_agent_summary">Telefonunuzun kilidini sesinizle açın</string>
+  <string name="trust_granted_by_voice">Sesinizle sağlanan güven</string>
+  <string name="permission_denied_text">Sesli Uyandırma, eğitim için sesinizi kaydedebilmelidir.</string>
+  <string name="try_again">Tekrar deneyin</string>
 </resources>

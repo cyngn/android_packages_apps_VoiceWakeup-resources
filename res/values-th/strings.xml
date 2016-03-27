@@ -36,5 +36,11 @@
   <string name="training_instruction_last_time">ครั้งสุดท้ายแล้ว!</string>
   <string name="training_instruction_success">การสอนระบบ</string>
   <string name="training_instruction_processing">กำลังประมวลผลเสียงของคุณ\u2026</string>
+  <string name="notification_title">สามารถใช้เสียงปลุกจอได้</string>
   <string name="notification_text">ควบคุมโทรศัพท์ด้วยเสียงของคุณ แตะเพื่อเริ่มฝึกสอนอุปกรณ์ใหม่ของคุณ</string>
+  <string name="trust_agent_title">ผู้แทนความน่าเชื่อถือในการปลุกด้วยเสียง</string>
+  <string name="trust_agent_summary">ปลดล็อคโทรศัพท์ด้วยเสียงของคุณ</string>
+  <string name="trust_granted_by_voice">ให้ความเชื่อถือด้วยเสียงของคุณ</string>
+  <string name="permission_denied_text">การปลุกด้วยเสียงต้องสามารถบันทึกเสียงของคุณเพื่อใช้สำหรับการฝึกฝน</string>
+  <string name="try_again">ลองอีกครั้ง</string>
 </resources>
