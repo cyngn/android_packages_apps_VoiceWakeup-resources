@@ -36,5 +36,7 @@
   <string name="training_instruction_last_time">Ultima dată!</string>
   <string name="training_instruction_success">Sistemul este antrenat</string>
   <string name="training_instruction_processing">Se procesează vocea\u2026</string>
+  <string name="notification_title">Trezirea vocală este disponibilă</string>
   <string name="notification_text">Controlează telefonul cu vocea. Apasă pentru a-ți antrena dispozitivul.</string>
+  <string name="try_again">Reîncercați</string>
 </resources>
