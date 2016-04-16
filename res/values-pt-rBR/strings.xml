@@ -34,7 +34,7 @@
   <string name="training_button_reset">Volte mais tarde</string>
   <string name="training_instruction_again">Ótimo, vamos fazer de novo.</string>
   <string name="training_instruction_last_time">Uma última vez!</string>
-  <string name="training_instruction_success">Treinar o sistema</string>
+  <string name="training_instruction_success">Treinando o sistema</string>
   <string name="training_instruction_processing">Processando sua voz\u2026</string>
   <string name="notification_title">A Ativação por voz está disponível</string>
   <string name="notification_text">Controle o seu dispositivo com a voz. Toque para começar a treinar o seu novo dispositivo.</string>

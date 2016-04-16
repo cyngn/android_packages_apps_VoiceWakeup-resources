@@ -16,10 +16,31 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Beker Bersuara</string>
   <!-- Strings that can be overlayed -->
   <!--sub: wakeup_phrase -->
+  <string name="training_subtitle">Untuk memulai, ketuk mikrofon di tengah layar. Kemudian katakan \"%1$s\"</string>
   <!--sub1: device_name, sub2: wakeup_phrase -->
+  <string name="training_instruction_intro">Mari kita melatih %1$s untuk mengenal suara Anda.\n\nAnda harus menelusuri tempat yang tenang untuk ini.\n\nJika Anda siap, ketuk tombol di bawah ini dan ikuti petunjuk pada layar.</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_error">Ups, tidak bisa mendengar Anda. Coba katakan \"%1$s\" lagi</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_try">Coba katakan \"%1$s\"</string>
   <!--sub: wakeup_phrase -->
+  <string name="training_instruction_outro">Sempurna, Anda sudah siap! Perangkat Anda sekarang dilatih untuk suara Anda. Anda dapat mengulangi proses pelatihan ini kapan saja dari Pengaturan.\n\nBangunkan perangkat Anda kapan saja dengan mengatakan \"%1$s\"</string>
+  <string name="training_title">Latih suara Anda</string>
+  <string name="training_button_train">Ayo</string>
+  <string name="training_button_all_done">Semua selesai</string>
+  <string name="training_button_reset">Kembali lagi nanti</string>
+  <string name="training_instruction_again">Bagus, ayo kita lakukan lagi.</string>
+  <string name="training_instruction_last_time">Terakhir kali!</string>
+  <string name="training_instruction_success">Melatih sistem</string>
+  <string name="training_instruction_processing">Memproses suara Anda\u2026</string>
+  <string name="notification_title">Beker Bersuara tersedia</string>
+  <string name="notification_text">Kendalikan telepon dengan suara Anda. Ketuk untuk memulai pelatihan perangkat Anda yang baru.</string>
+  <string name="trust_agent_title">Agen Kepercayaan Beker Bersuara</string>
+  <string name="trust_agent_summary">Buka telepon Anda dengan suara Anda</string>
+  <string name="trust_granted_by_voice">Kepercayaan diberikan oleh suara Anda</string>
+  <string name="permission_denied_text">Beker Bersuara harus mampu merekam suara Anda untuk latihan.</string>
+  <string name="try_again">Coba kembali</string>
 </resources>
