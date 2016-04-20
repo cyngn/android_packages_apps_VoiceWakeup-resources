@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Röstväckning</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">För att börja, tryck på mikrofonen i mitten av skärmen. Säg sedan \" %1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Låt oss träna din nya %1$s att känna igen din röst.\n\nDu kommer vilja hitta en tyst plats för detta.\n\nNär du är redo, tryck på knappen nedan och följ instruktionerna på skärmen.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Oj, kunde inte höra dig. Försök att säga \"%1$s\" igen</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Försök att säga \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Perfekt, du är redo! Din enhet är nu tränad på din röst. Du kan alltid upprepa denna träningsprocess från Inställningar.\n\nVäck din enhet när som helst genom att säga \"%1$s\"</string>
   <string name="training_title">Träna din röst</string>
   <string name="training_button_train">Sätt igång</string>

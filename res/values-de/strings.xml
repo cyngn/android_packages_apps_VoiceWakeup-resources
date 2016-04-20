@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Mit Stimme aufwecken</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Tippen Sie zunächst auf das Mikrofon in der Bildschirmmitte. Dann sagen Sie \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Jetzt trainieren wir Ihr neues %1$s, damit es Ihre Stimme erkennt.\n\nSie sollten dazu einen ruhigen Ort aufsuchen.\n\nWenn Sie bereit sind, tippen Sie auf die unten gezeigte Schaltfläche und folgen Sie den Anweisungen.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Hoppla, ich konnte Sie leider nicht verstehen. Versuchen Sie noch einmal, \"%1$s\" zu sagen</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Sagen Sie \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Perfekt, Sie sind startklar! Ihr Gerät ist nun auf Ihre Stimme trainiert. Sie können dieses Training stets in den Einstellungen wiederholen.\n\nWecken Sie Ihr Gerät jederzeit auf, indem Sie \"%1$s\" sagen</string>
   <string name="training_title">Auf Ihre Stimme trainieren</string>
   <string name="training_button_train">Los geht\'s</string>
@@ -31,5 +37,5 @@
   <string name="training_instruction_success">Das System einlernen</string>
   <string name="training_instruction_processing">Ihre Stimme wird verarbeitet\u2026</string>
   <string name="notification_title">Mit Stimme wecken ist verfügbar</string>
-  <string name="notification_text">Steuern Sie Ihr Telefon mit Ihrer Stimme. Antippen, um Ihr Gerät zu trainieren.</string>
+  <string name="notification_text">Steuern Sie Ihr Telefon mit Ihrer Stimme. Berühren, um Ihr Gerät zu trainieren.</string>
 </resources>

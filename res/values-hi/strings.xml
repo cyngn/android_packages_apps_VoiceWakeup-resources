@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">आवाज़ देकर जगाएँ</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">शुरू करने के लिए, स्क्रीन के मध्यम में माइक्रोफ़ोन को टैप करें। फिर \"%1$s\" कहें</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">अब आपके नए%1$s को आपकी आवाज़ पहचानना सिखाते हैं।\n\nइसके लिए आपको किसी शांत जगह में जाना चाहिए।\n\nजब आप तैयार हों, नीचे के बटन को टैप करें और स्क्रीन पर आने वाले निर्देशों का पालन करें।</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">ओ-ओ, आपकी आवाज सुनाई नहीं दे रही है। \"%1$s\" को फिर से कहें</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">\"%1$s\" कहें</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">बढ़िया, अब आप बिलकुल तैयार हैं! अब आपका उपकरण आपकी आवाज़ पहचान सकता है। आप इस प्रशिक्षण को सेटिंग में जाकर फिर दुहरा सकते हैं।\n\nकिसी भी समय \"%1$s\" कहकर अपने उपकरण जगाएँ</string>
   <string name="training_title">अपनी आवाज़ को प्रशिक्षित करें</string>
   <string name="training_button_train">शुरू करें</string>

@@ -16,11 +16,17 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Bujenje z glasom</string>
+  <string name="app_name">Glasovno bujenje</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Za začetek tapnite mikrofon na sredini zaslona. Nato recite \"%1$s\"</string>
-  <string name="training_instruction_intro">Naučimo vaš nov %1$s prepoznati vaš glas.\n\nPoiščite miren in tih prostor za to.\n\nKo boste pripravljeni, tapnite spodnji gumb in sledite navodilom.</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
+  <string name="training_instruction_intro">Priučimo vaš nov %1$s prepoznati vaš glas.\n\nPoiščite miren in tih prostor za to.\n\nKo boste pripravljeni, tapnite spodnji gumb in sledite navodilom.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Ups, ni vas bilo slišati. Poskusite reči \"%1$s\" še enkrat</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Poskusite reči \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Super, pripravljeni ste. Vaša naprava pozna vaš glas. To priučitev lahko ponovite v Nastavitvah.\n\nZbudite napravo kadarkoli s tem, da rečete \"%1$s\"</string>
   <string name="training_title">Priučite svoj glas</string>
   <string name="training_button_train">Začnimo</string>
@@ -30,6 +36,6 @@
   <string name="training_instruction_last_time">Še zadnjič!</string>
   <string name="training_instruction_success">Priučenje sistema</string>
   <string name="training_instruction_processing">Obdelovanje vašega glasu \u2026</string>
-  <string name="notification_title">Bujenje z glasom omogočeno</string>
+  <string name="notification_title">Glasovno bujenje je na voljo</string>
   <string name="notification_text">Upravljajte svojo napravo z svojim glasom. Tapnite za začetek priučenja svoje naprave.</string>
 </resources>

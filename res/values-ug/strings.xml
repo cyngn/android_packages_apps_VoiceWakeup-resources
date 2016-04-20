@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">ئاۋازدا ئويغات</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">باشلاشتا، ئېكراننىڭ ئوتتۇرىسىدىكى مىكروفوننى چېكىڭ. ئاندىن \"%1$s\" دەڭ</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">يېڭى %1$s نى مەشقلەندۈرۈپ ئاۋازىڭىزنى تونۇتىمىز.\n\nتىنچ جايدىن بىرنى تېپىپ كېيىنكى مەشغۇلاتلارنى داۋاملاشتۇرۇڭ.\n\nتەييارلىنىپ بولغىنىڭىزدا، تۆۋەندىكى توپچىنى بېسىپ، ئېكراندىكى ئەسكەرتىش بويىچە مەشغۇلات قىلىڭ.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">ئەستا، ئاۋازىڭىزنى ئاڭلىيالمىدى. \"%1$s\" دېيىشنى قايتا سىناڭ</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">\"%1$s\" دېيىشنى سىناڭ</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">قالتىس، ھەممە تەڭشەكنى تاماملىدىڭىز!ئۈسكۈنىڭىز ھازىر ئاۋازىڭىزنى تونۇيدۇ. تەڭشەكلەر تىزىملىكىدىن بۇ مەشقلەندۈرۈش مەشغۇلاتنى تەكرارلىيالايسىز.\n\nسىز \"%1$s\" دەپ ئۈسكۈنىڭىزنى خالىغان ۋاقىتتا ئويغىتالايسىز</string>
   <string name="training_title">ئاۋازىڭىزنى مەشقلەندۈرۈڭ</string>
   <string name="training_button_train">باشلايلى</string>

@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Đánh thức bằng giọng nói</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Để bắt đầu, hãy nhấp vào micro ở giữa màn hình. Sau đó nói \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Hãy rèn luyện %1$s mới của bạn để nhận dạng giọng nói của bạn.\n\nBạn cần tìm một nơi yên tĩnh để làm việc này.\n\nKhi đã sẵn sàng, nhấn vào nút bên dưới và làm theo lời nhắc trên màn hình.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Rất tiếc, tôi không thể nghe thấy bạn. Thử nói \"%1$s\" một lần nữa</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Hãy thử nói \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Hoàn hảo, tất cả đã được thiết lập! Thiết bị giờ đã được rèn luyện giọng nói của bạn. Bạn có thể làm lại quá trình rèn luyện này từ phần Cài đặt.\n\nĐánh thức thiết bị của bạn bất cứ lúc nào bằng cách nói \"%1$s\"</string>
   <string name="training_title">Rèn luyện giọng nói của bạn</string>
   <string name="training_button_train">Bắt đầu nào</string>

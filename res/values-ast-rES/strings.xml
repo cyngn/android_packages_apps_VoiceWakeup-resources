@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Activación por voz</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Pa entamar, toca sobre\'l micrófonu nel centru la pantalla. Llueu di \u00AB%1$s\u00BB</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Vamos a entrenar el to nuevu %1$s pa que te reconoza la voz.\n\nAllúgate nun sitiu silenciosu pa facer esto.\n\nCuando teas preparáu, toca nel siguiente botón y sigui les instrucciones na pantalla.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Vaya, nun pudi sentite. Intenta dicir \"%1$s\" otra vegada</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Intenta dicir \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">¡Perfeuto, too llisto! El preséu ta entrenáu pa reconocete la voz. Vas poder repetir esti entrenamientu siempre que quieras dende Axustes.\n\nPrendi\'l to preséu en cualquier momentu diciendo \u00AB%1$s\u00BB</string>
   <string name="training_title">Calibra la voz</string>
   <string name="training_button_train">Vamos a ello</string>

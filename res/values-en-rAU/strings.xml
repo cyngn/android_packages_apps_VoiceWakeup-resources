@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Voice Wakeup</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">To begin, tap the microphone in the centre of the screen. Then say \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Let\'s train your new %1$s to recognise your voice.\n\nYou\'re going to want to find a quiet place for this.\n\nWhen you are ready, tap the button below and follow the on-screen prompts.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Oops, couldn\'t hear you. Try saying \"%1$s\" again</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Try saying \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Perfect, you are all set! Your device is now trained to your voice. You can always repeat this training process from Settings.\n\nWake your device anytime by saying \"%1$s\"</string>
   <string name="training_title">Train your voice</string>
   <string name="training_button_train">Let\'s go</string>

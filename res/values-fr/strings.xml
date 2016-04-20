@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Réveil par la voix</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Pour commencer, appuyez sur le microphone au centre de l\'écran. Puis dites « %1$s »</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Nous allons former %1$s à reconnaître votre voix.\n\nVous allez devoir trouver un endroit tranquille pour ce faire.\n\nQuand vous serez prêt, appuyez sur le bouton ci-dessous et suivez les instructions à l\'écran.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Oups, impossible de vous entendre. Essayez de répéter \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Essayez de dire \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Parfait, vous êtes prêt ! Votre appareil est maintenant formé à votre voix. Vous pouvez toujours répéter ce processus de formation dans les paramètres.\n\nRéveillez votre appareil à tout moment en disant \"%1$s\"</string>
   <string name="training_title">Apprentissage de votre voix</string>
   <string name="training_button_train">Allons-y</string>

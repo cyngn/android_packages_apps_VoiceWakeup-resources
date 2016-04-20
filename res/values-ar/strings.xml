@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">تنبيه صوتي</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">للبدء، انقر فوق الميكروفون في وسط الشاشة. ثم قل \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">دعنا ندرب %1$s الجديد من أجل التعرف على صوتك\n\n. يجب عليك الذهاب للبحث عن مكان هادئ لهذا الغرض.\n\n عندما تكون مستعداً، انقر على الزر أدناه واتبع الطلبات التي تظهر على الشاشة.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">عفوا، تعذر سماعك. حاول ان تنطق \"%1$s\" مرة أخرى</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">جرب قول \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">رائع، قمت بعمل كل ما هو لازم منك! جهازك مدرب الآن للتعرف على صوتك. يمكنك دوماً تكرار عملية التدريب من إعدادات.\n\n قم بتنشيط جهازك في أي وقت بقول \"%1$s\"</string>
   <string name="training_title">تدريب صوتك</string>
   <string name="training_button_train">لنذهب</string>

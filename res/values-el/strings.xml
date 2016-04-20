@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Φωνητική αφύπνιση</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Για να ξεκινήσετε, πατήστε το μικρόφωνο στο κέντρο της οθόνης. Στη συνέχεια, πείτε \"%1$s\"</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Ας εκπαιδεύσουμε το νέο σας %1$s να αναγνωρίζει τη φωνή σας.\n\nΠρέπει να βρείτε ένα ήσυχο μέρος για αυτό.\n\nΌταν είστε έτοιμοι, πατήστε το κουμπί παρακάτω και ακολουθήστε τις οδηγίες που εμφανίζονται στην οθόνη.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Ωχ, δεν μπόρεσα να σας ακούσω. Προσπαθήστε να πείτε \"%1$s\" ξανά</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Προσπαθήστε να πείτε \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Τέλεια, είστε έτοιμοι! Η συσκευή σας έχει πλέον εκπαιδευτεί με τη φωνή σας. Μπορείτε να επαναλάβετε αυτή τη διαδικασία εκπαίδευσης από τις Ρυθμίσεις.\n\nΑφυπνίστε τη συσκευή σας ανά πάσα στιγμή λέγοντας \"%1$s\"</string>
   <string name="training_title">Εκπαιδεύστε τη φωνή σας</string>
   <string name="training_button_train">Πάμε</string>

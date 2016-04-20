@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Felélesztés Hanggal</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Kezdéshez érintse meg a mikrofont a képernyő közepén. Mondja: %1$s</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">Készítse fel az új %1$s-t, hogy felismerje a hangját.\n\nEhhez egy csendes helyre lesz szüksége.\n\nMikor készen áll, érintse meg az alábbi gombot és kövesse a képernyőn látható utasításokat.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Hoppá, nem hallottam. Próbálja újra mondani: %1$s</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Próbálja mondani: %1$s</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">Tökéletes, mindent beállított! A készüléke már ismeri a hangját. Bármikor megismételheti ezt a folyamatot a Beállításokban.\n\nÉbressze fel készülékét bármikor, mondja ezt: %1$s</string>
   <string name="training_title">Próbálgassa a hangját</string>
   <string name="training_button_train">Gyerünk</string>

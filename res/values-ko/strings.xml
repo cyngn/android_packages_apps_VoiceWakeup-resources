@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">Voice Wakeup</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">시작하려면 중앙의 마이크를 탭하고 \"%1$s\"(이)라고 말하십시오</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">%1$s이(가) 사용자의 목소리를 인식할 수 있도록 훈련시켜봅시다.\n\n조용한 곳에서 훈련하는 게 좋습니다.\n\n준비가 되면, 아래의 버튼을 탭한 뒤 화면에 나오는 설명을 따르십시오.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">이런, 듣지 못했습니다. 한번 더 \"%1$s\"(이)라고 말해보십시오.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">\"%1$s\"(이)라고 말해보십시오.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">완벽하군요, 준비가 다 되었습니다! 이제 장치가 당신의 목소리를 기억할 것입니다. 설정 앱에서 언제든지 훈련 과정을 반복할 수 있습니다.\n\n이제 \"%1$s\"을(를) 외쳐서 장치를 켤 수 있습니다.</string>
   <string name="training_title">목소리 훈련</string>
   <string name="training_button_train">시작하기</string>

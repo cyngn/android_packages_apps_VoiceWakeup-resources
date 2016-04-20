@@ -17,10 +17,16 @@
 -->
 <resources>
   <string name="app_name">ಧ್ವನಿ ಎಬ್ಬಿಸುವಿಕೆ</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">ಆರಂಭಿಸಲು, ಪರದೆಯ ಮದ್ಯದಲ್ಲಿರುವ ಧ್ವನಿಗ್ರಾಹಕವನ್ನು ಸ್ಪರ್ಶಿಸಿ. ನಂತರ \"%1$s\" ಎಂದು ಹೇಳಿ</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
   <string name="training_instruction_intro">ನಿಮ್ಮ ಧ್ವನಿಯನ್ನು ಗುರುತಿಸಲು ನಿಮ್ಮ ಹೊಸ %1$s ತರಬೇತಿ ನೀಡೋಣ.\n\nಇದಕ್ಕಾಗಿ ನೀವು ಒಂದು ಪ್ರಶಾಂತವಾದ ಸ್ಥಳವನ್ನು ಹುಡುಕುವ ಅಗತ್ಯವಿದೆ.\n\nನೀವು ಸಿದ್ಧರಿದ್ದಾಗ, ಕೆಳಗಿರುವ ಬಟನ್ ಸ್ಪರ್ಶಿಸಿ ಹಾಗು ಸಲಹೆಗಳನ್ನು ಅನುಸರಿಸಿ.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">ಓಹ್, ನಿಮ್ಮ ಧ್ವನಿ ಕೇಳಲಾಗಲಿಲ್ಲ. ಮತ್ತೊಮ್ಮೆ \"%1$s\" ಹೇಳಲು ಪ್ರಯತ್ನಿಸಿ</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">\"%1$s\" ಎಂದು ಹೆಳಲು ಪ್ರಯತ್ನಿಸಿ</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_outro">ಅತ್ಯುತ್ತಮ, ಈಗ ನೀವು ಪೂರ್ಣವಾಗಿ ಸಿದ್ಧಗೊಂಡಿದ್ದೀರಿ! ನಿಮ್ಮ ಸಾಧನ ಈಗ ನಿಮ್ಮ ಧ್ವನಿಯನ್ನು ಗುರುತಿಸುತ್ತದೆ. ನೀವು ಸೆಟ್ಟಿಂಗ್ಸ್ ಮೂಲಕ ಎಂದಿಗೂ ಈ ತರಬೇತಿ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪುನರಾವರ್ತಿಸಬಹುದು.\n\nಯಾವ ಸಮಯದಲ್ಲಾದರೂ \"%1$s\" ಹೇಳುವ ಮೂಲಕ ನಿಮ್ಮ ಸಾಧನವನ್ನು ಎಚ್ಚರಗೊಳಿಸಿ</string>
   <string name="training_title">ನಿಮ್ಮ ಧ್ವನಿಗೆ ತರಬೇತಿ ನೀಡಿ</string>
   <string name="training_button_train">ಆರಂಭಿಸಿ</string>

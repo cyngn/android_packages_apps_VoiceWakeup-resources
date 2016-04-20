@@ -16,12 +16,18 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Ativação por voz</string>
+  <string name="app_name">Ativação por Voz</string>
+  <!-- Strings that can be overlayed -->
+  <!--sub: wakeup_phrase -->
   <string name="training_subtitle">Para começar, toque no microfone ao centro do ecrã. Em seguida, diga \"%1$s\"</string>
-  <string name="training_instruction_intro">Vamos treinar o seu novo %1$s para reconhecer a sua voz.\n\nVai precisar de encontrar um local calmo para isso.\n\nQuando estiver pronto, carregue no botão abaixo e siga as instruçoes que forem aparecendo no ecrã.</string>
+  <!--sub1: device_name, sub2: wakeup_phrase -->
+  <string name="training_instruction_intro">Vamos treinar o seu novo %1$s para reconhecer a sua voz.\n\nPara isso, procure um local calmo.\n\nQuando estiver pronto, toque no botão abaixo e siga as instruções que forem aparecendo no ecrã.</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_error">Lamento, não consegui ouvir. Diga novamente \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
   <string name="training_instruction_try">Tente dizer \"%1$s\"</string>
-  <string name="training_instruction_outro">Perfeito, está pronto! O seu dispositivo está agora treinado para reconhecer a sua voz. Pode voltar a repetir este treino nas definições.\n\nAcorde o seu dispositivo a quaquer momento dizendo \"%1$s\"</string>
+  <!--sub: wakeup_phrase -->
+  <string name="training_instruction_outro">Perfeito, está pronto! O seu dispositivo está agora treinado para reconhecer a sua voz. Pode voltar a repetir este treino nas definições.\n\nAcorde o seu dispositivo a qualquer momento dizendo \"%1$s\"</string>
   <string name="training_title">Treinar a sua voz</string>
   <string name="training_button_train">Vamos</string>
   <string name="training_button_all_done">Pronto</string>
@@ -30,6 +36,6 @@
   <string name="training_instruction_last_time">Uma última vez!</string>
   <string name="training_instruction_success">Treinar o sistema</string>
   <string name="training_instruction_processing">A processar a sua voz\u2026</string>
-  <string name="notification_title">Ativação por voz está disponível</string>
+  <string name="notification_title">A Ativação por Voz está disponível</string>
   <string name="notification_text">Controle o seu dispositivo com a voz. Toque para começar a treinar o seu novo dispositivo.</string>
 </resources>
