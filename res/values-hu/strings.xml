@@ -36,6 +36,11 @@
   <string name="training_instruction_last_time">Még egyszer utoljára!</string>
   <string name="training_instruction_success">A rendszer felkészítése</string>
   <string name="training_instruction_processing">Hangjának feldolgozása\u2026</string>
+  <string name="notification_title">Elérhető a felébresztés hanggal funkció</string>
   <string name="notification_text">Irányítsa készülékét a hangjával. Koppintson a készülék felkészítéséhez.</string>
+  <string name="trust_agent_title">Felébresztés Hanggal Megbízható Ügynök</string>
+  <string name="trust_agent_summary">Oldja fel telefonját a hangjával</string>
+  <string name="trust_granted_by_voice">Sikeres feloldás</string>
+  <string name="permission_denied_text">Felébresztés Hanggal képesnek kell lennie a hangja rögzítésére a gyakorláshoz.</string>
   <string name="try_again">Próbálja újra</string>
 </resources>
