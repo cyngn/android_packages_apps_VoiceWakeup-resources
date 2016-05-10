@@ -36,9 +36,9 @@
   <string name="training_instruction_last_time">Uma última vez!</string>
   <string name="training_instruction_success">Treinando o sistema</string>
   <string name="training_instruction_processing">Processando sua voz\u2026</string>
-  <string name="notification_title">A Ativação por voz está disponível</string>
+  <string name="notification_title">A ativação por voz está disponível</string>
   <string name="notification_text">Controle o seu dispositivo com a voz. Toque para começar a treinar o seu novo dispositivo.</string>
-  <string name="trust_agent_title">Perfis de Confiança da Ativação por Voz</string>
+  <string name="trust_agent_title">Agente de confiança da ativação por voz</string>
   <string name="trust_agent_summary">Desbloquear o seu telefone com a sua voz</string>
   <string name="trust_granted_by_voice">Autorização concedida pela sua voz</string>
   <string name="permission_denied_text">Ativação por voz deve ser capaz de gravar a sua voz para ser treinada.</string>

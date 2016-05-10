@@ -39,7 +39,7 @@
   <string name="notification_title">השכמה קולית זמינה</string>
   <string name="notification_text">שלוט בטלפון בעזרת הקול שלך. הקש כדי להתחיל באימון המכשיר החדש שלך.</string>
   <string name="trust_agent_title">סוכן אמינות להשכמה קולית</string>
-  <string name="trust_agent_summary">פתיחת את נעילת הטלפון עם חתימה קולית</string>
+  <string name="trust_agent_summary">פתח את נעילת הטלפון עם חתימה קולית</string>
   <string name="trust_granted_by_voice">האימות ניתן ע\"י קולך</string>
   <string name="permission_denied_text">שירות השכמה קולית חייב להקליט את קולך לצורך אימון בזיהוי.</string>
   <string name="try_again">נסה שנית</string>

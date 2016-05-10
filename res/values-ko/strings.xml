@@ -36,5 +36,11 @@
   <string name="training_instruction_last_time">한 번만 더!</string>
   <string name="training_instruction_success">시스템 훈련</string>
   <string name="training_instruction_processing">목소리 처리 중\u2026</string>
+  <string name="notification_title">음성으로 화면 켜기 사용 가능</string>
   <string name="notification_text">목소리로 휴대전화를 조종하세요. 여기를 탭하여 장치 훈련을 시작할 수 있습니다.</string>
+  <string name="trust_agent_title">음성으로 화면 켜기 Trust Agent</string>
+  <string name="trust_agent_summary">사용자의 음성으로 잠금 해제</string>
+  <string name="trust_granted_by_voice">사용자 음성 확인됨</string>
+  <string name="permission_denied_text">음성으로 화면 켜기는 음성 훈련을 위해 사용자의 음성을 녹음할 수 있어야 합니다.</string>
+  <string name="try_again">다시 시도</string>
 </resources>

@@ -41,6 +41,6 @@
   <string name="trust_agent_title">Agen Kepercayaan Beker Bersuara</string>
   <string name="trust_agent_summary">Buka telepon Anda dengan suara Anda</string>
   <string name="trust_granted_by_voice">Kepercayaan diberikan oleh suara Anda</string>
-  <string name="permission_denied_text">Beker Bersuara harus mampu merekam suara Anda untuk latihan.</string>
-  <string name="try_again">Coba kembali</string>
+  <string name="permission_denied_text">Beker Bersuara harus bisa merekam suara Anda untuk pelatihan.</string>
+  <string name="try_again">Coba lagi</string>
 </resources>
