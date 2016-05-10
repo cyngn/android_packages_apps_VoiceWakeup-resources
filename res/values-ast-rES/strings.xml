@@ -36,5 +36,11 @@
   <string name="training_instruction_last_time">Una última vegada!</string>
   <string name="training_instruction_success">Entrenando\'l sistema</string>
   <string name="training_instruction_processing">Procesando la to voz\u2026</string>
+  <string name="notification_title">Voice Wakeup ta disponible</string>
   <string name="notification_text">Remana\'l teléfonu cola to voz. Toca pa entamar a calibrar el preséu.</string>
+  <string name="trust_agent_title">Axente d\'enfotu Voice Wakeup</string>
+  <string name="trust_agent_summary">Desbloquia\'l preséu cola to voz</string>
+  <string name="trust_granted_by_voice">Confianza concedida a la to voz</string>
+  <string name="permission_denied_text">Voice Wakeup tien de ser a grabar la to voz pa entrenase.</string>
+  <string name="try_again">Tentar de nueves</string>
 </resources>
