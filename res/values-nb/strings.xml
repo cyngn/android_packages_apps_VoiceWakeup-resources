@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Stemme oppvåkning</string>
+  <string name="app_name">Stemme oppvekking</string>
   <!-- Strings that can be overlayed -->
   <!--sub: wakeup_phrase -->
   <string name="training_subtitle">For å starte, trykk på mikrofonen i senter av skjermen, så kan du si\"%1$s\"</string>
@@ -36,7 +36,7 @@
   <string name="training_instruction_last_time">En siste gang!</string>
   <string name="training_instruction_success">Trener systemet</string>
   <string name="training_instruction_processing">Behandler stemme\u2026</string>
-  <string name="notification_title">Stemmeoppvåkning er tilgjengelig</string>
+  <string name="notification_title">Stemmeoppvekking er tilgjengelig</string>
   <string name="notification_text">Kontroller telefonen med stemmen. Trykk for å begynne opplæring av enheten.</string>
   <string name="trust_agent_title">Stemme Oppvekking Trust Agent</string>
   <string name="trust_agent_summary">Lås opp telefonen med stemmen</string>
