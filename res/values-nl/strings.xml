@@ -39,6 +39,8 @@
   <string name="notification_title">\'Ontwaken met stem\' is beschikbaar</string>
   <string name="notification_text">Bedien uw telefoon met uw stem. Tik om te beginnen met het trainen van uw nieuwe apparaat.</string>
   <string name="trust_agent_title">\'Ontwaken met stem\' Trust-agent</string>
+  <string name="trust_agent_summary">Ontgrendel uw telefoon met uw stem</string>
+  <string name="trust_granted_by_voice">Toegang verleend met uw stem</string>
   <string name="permission_denied_text">\'Ontwaken met stem\' moet in staat zijn uw stem op te nemen voor training.</string>
   <string name="try_again">Probeer opnieuw</string>
 </resources>
