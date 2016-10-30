@@ -36,5 +36,11 @@
   <string name="training_instruction_last_time">最後にもう一度 ！</string>
   <string name="training_instruction_success">システムを設定中</string>
   <string name="training_instruction_processing">声を処理中\u2026</string>
+  <string name="notification_title">音声起動が利用可能です</string>
   <string name="notification_text">声で携帯電話をコントロールします。タップすると新しい端末の設定を開始します。</string>
+  <string name="trust_agent_title">音声起動トラストエージェント</string>
+  <string name="trust_agent_summary">声で携帯電話をロック解除する</string>
+  <string name="trust_granted_by_voice">あなたの声で認証しました</string>
+  <string name="permission_denied_text">音声起動は設定のために声を録音できる必要があります。</string>
+  <string name="try_again">再試行</string>
 </resources>
